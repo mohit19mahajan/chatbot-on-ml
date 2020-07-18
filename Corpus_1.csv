@@ -21,7 +21,7 @@ Please provide machine learning example,Link:https://en.wikipedia.org/wiki/Machi
 How to apply machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine Learning
 What do you mean by machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine Learning
 Unable to understand machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine Learning
-what are some libraries used in machine learning,Sklearn,sklearn
+what are some libraries used in machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine Learning
 Which library is used for machine learning models,Sklearn,sklearn
 Which library should i use to build machine learning models,Sklearn,sklearn
 did not get neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
@@ -53,4 +53,220 @@ Please provide example of decision trees,Link:https://en.wikipedia.org/wiki/Deci
 How a decision tree works,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
 Name a few classification model,"Logistic Regression, Decision Tree, etc.",classification model
 name a few classifcation model,"Logistic Regression, Decision Tree, etc.",classification model
-I want to know more about deep learning,Link:https://en.wikipedia.org/wiki/Deep_learning,Deep learning
+I want to know more about deep learning,Link:https://en.wikipedia.org/wiki/Deep_learning,deep learning
+What are Ensemble Techniques,Link:https://en.wikipedia.org/wiki/Ensemble_learning,Ensemble Techniques
+Explain Ensemble Techniques,Link:https://en.wikipedia.org/wiki/Ensemble_learning,Ensemble Techniques
+What is Ensemble Learning,Link:https://en.wikipedia.org/wiki/Ensemble_learning,Ensemble Techniques
+What is Bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
+Explain Bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
+What is Boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
+Explain Boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
+Expain recurrent neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What is LSTM?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What is linear regression in simple terms?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+How do you calculate linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+How does a linear regression work?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What is linear regression used for?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What are some examples of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+How do you explain linear regression to a child?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Why is it called linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Is multiple regression linear?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What is A and B in linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Is linear regression always a straight line?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What does multiple linear regression tell you?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+How do you interpret linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What are the four assumptions of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Why do we use multiple regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Which data is most suitable for linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What are types of regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+What does R Squared mean?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+How do you calculate regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression example,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression formula,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression algorithm,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+logistic regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression for dummies,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression equation,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+regression analysis,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+sklearn linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression is a linear approach to modeling,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression establishes relationship between a scalar response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+one explanatory variable is called simple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+more than one explanatory variable is called multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+multivariate linear regression deals with prediction of multiple correlated dependent variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression focuses on the conditional probability distribution of the response given the values of the predictors,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+"Linear regression can be used when goal is prediction, forecasting, or error reduction",Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Linear regression analysis can be applied to quantify the strength of the relationship between response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Linear regression models are often fitted using the least squares approach,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+"linear regression minimizes the ""lack of fit""",Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+linear regression minimizes a penalized version of the least squares cost function as in ridge regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+assumptions made by standard linear regression models with standard estimation techniques,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+ordinary least squares,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+OLS,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Weak exogeneity,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Linearity,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+homoscedasticity in linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Simple and multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+General linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+generalized least squares linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Hierarchical linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Least-squares estimation,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+Hey,Hello! how can I help you ?,hello
+Hi,Hello! how can I help you ?,hello
+Hello,Hello! how can I help you ?,hello
+How are you?,Hello! how can I help you ?,hello
+How's it going,Hello! how can I help you ?,hello
+Help,Hello! how can I help you ?,hello
+I need some help,Hello! how can I help you ?,hello
+I need help,Hello! how can I help you ?,hello
+Hi there,Hello! how can I help you ?,hello
+Hello there,Hello! how can I help you ?,hello
+Hi Chatbot,Hello! how can I help you ?,hello
+Hi Great Learning,Hello! how can I help you ?,hello
+Hi Greatlearning,Hello! how can I help you ?,hello
+Anybody there?,Hello! how can I help you ?,hello
+Are you a chatbot?,Hello! how can I help you ?,hello
+Are you human?,Hello! how can I help you ?,hello
+Greetings!,Hello! how can I help you ?,hello
+Nice to meet you,Hello! how can I help you ?,hello
+What's up?,Hello! how can I help you ?,hello
+Good morning,Hello! how can I help you ?,hello
+Good afternoon,Hello! how can I help you ?,hello
+Good evening,Hello! how can I help you ?,hello
+Good night,Hello! how can I help you ?,hello
+Are you real?,Hello! how can I help you ?,hello
+you're a machine?,Hello! how can I help you ?,hello
+Tell me something,Hello! how can I help you ?,hello
+What can you do?,Hello! how can I help you ?,hello
+how can you help me,Hello! how can I help you ?,hello
+I have a question,Hello! how can I help you ?,hello
+can you help me,Hello! how can I help you ?,hello
+what's your name,Hello! how can I help you ?,hello
+knn,Link: Machine Learning wiki,KNN
+k-nearest neighbors algorithm,Link: Machine Learning wiki,KNN
+What is Knn in machine learning?,Link: Machine Learning wiki,KNN
+What does K mean in Knn?,Link: Machine Learning wiki,KNN
+Why is Knn used?,Link: Machine Learning wiki,KNN
+How does KNN algorithm work?,Link: Machine Learning wiki,KNN
+How is Knn calculated?,Link: Machine Learning wiki,KNN
+How do you predict using Knn?,Link: Machine Learning wiki,KNN
+What are some applications of KNN?,Link: Machine Learning wiki,KNN
+Does Knn require training?,Link: Machine Learning wiki,KNN
+Is Knn used for regression?,Link: Machine Learning wiki,KNN
+How do I stop Overfitting in Knn?,Link: Machine Learning wiki,KNN
+How do I tune my Knn?,Link: Machine Learning wiki,KNN
+How does Knn work in regression?,Link: Machine Learning wiki,KNN
+How do you select the value of k in Knn?,Link: Machine Learning wiki,KNN
+Why KNN is called lazy learner?,Link: Machine Learning wiki,KNN
+How is KNN algorithm implemented?,Link: Machine Learning wiki,KNN
+What is KNN algorithm example?,Link: Machine Learning wiki,KNN
+What is Knn in Python?,Link: Machine Learning wiki,KNN
+Is KNN clustering?,Link: Machine Learning wiki,KNN
+Why Euclidean distance is used in Knn?,Link: Machine Learning wiki,KNN
+Is Knn better than logistic regression?,Link: Machine Learning wiki,KNN
+Why KNN is non parametric?,Link: Machine Learning wiki,KNN
+k nearest neighbors algorithm,Link: Machine Learning wiki,KNN
+k nearest neighbors,Link: Machine Learning wiki,KNN
+k nearest neighbor,Link: Machine Learning wiki,KNN
+knn sklearn,Link: Machine Learning wiki,KNN
+knn wiki,Link: Machine Learning wiki,KNN
+knn example,Link: Machine Learning wiki,KNN
+knn python,Link: Machine Learning wiki,KNN
+knn algorithm tutorial,Link: Machine Learning wiki,KNN
+knn clustering,Link: Machine Learning wiki,KNN
+knn supervised or unsupervised,Link: Machine Learning wiki,KNN
+knn classification,Link: Machine Learning wiki,KNN
+knn algorithm in data mining,Link: Machine Learning wiki,KNN
+how knn works,Link: Machine Learning wiki,KNN
+I am unable to understand concept of knn,Link: Machine Learning wiki,KNN
+unable to understand concept of knn,Link: Machine Learning wiki,KNN
+unable to understand k-nearest neighbors,Link: Machine Learning wiki,KNN
+unable to understand k nearest neighbors,Link: Machine Learning wiki,KNN
+unable to understand k nearest neighbours,Link: Machine Learning wiki,KNN
+unable to understand k-nearest neighbours,Link: Machine Learning wiki,KNN
+Which Python library is used for machine learning?,Sklearn,sklearn
+What library is primarily used for machine learning?,Sklearn,sklearn
+Which is the best machine learning library?,Sklearn,sklearn
+What is ML library?,Sklearn,sklearn
+What is the library in Python?,Sklearn,sklearn
+What are standard libraries in Python?,Sklearn,sklearn
+How do I get a list of Python libraries?,Sklearn,sklearn
+Are Python libraries free?,Sklearn,sklearn
+Where are Python libraries stored?,Sklearn,sklearn
+Which Python libraries should I learn?,Sklearn,sklearn
+How many libraries are in Python?,Sklearn,sklearn
+Is JSON a standard Python library?,Sklearn,sklearn
+What are pandas in Python?,Sklearn,sklearn
+python libraries for data science,Sklearn,sklearn
+python libraries for machine learning,Sklearn,sklearn
+python libraries download,Sklearn,sklearn
+python modules,Sklearn,sklearn
+python packages list,Sklearn,sklearn
+python modules list,Sklearn,sklearn
+python libraries,Sklearn,sklearn
+sklearn,Sklearn,sklearn
+sklearn libraries,Sklearn,sklearn
+what are sklearn libraries used for,Sklearn,sklearn
+where can i find sklearn libraries,Sklearn,sklearn
+What is a machine learning library?,Sklearn,sklearn
+What are ml libraries?,Sklearn,sklearn
+What library is primarily used for machine learning?,Sklearn,sklearn
+Which library you have used for ML experiments?,Sklearn,sklearn
+Which is the best machine learning library?,Sklearn,sklearn
+What is Python library?,Sklearn,sklearn
+Which Python libraries should I learn?,Sklearn,sklearn
+What is Python library explain with example?,Sklearn,sklearn
+What is Sklearn library in Python?,Sklearn,sklearn
+What does Sklearn stand for?,Sklearn,sklearn
+Is Sklearn and Scikit learn same?,Sklearn,sklearn
+How do you use Sklearn?,Sklearn,sklearn
+types of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks tutorial,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks journal,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks applications,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks and deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+artificial neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What are neural networks used for?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+How do neural networks work?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What are the types of neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What is neural network in artificial intelligence?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Why are neural networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What problems can neural networks solve?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Why are networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Why are neural networks important?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Who invented neural network?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Why use deep neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Is neural networks deep learning?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+How do I start learning neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+How can I learn neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+What is neural network in simple words?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Who invented neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Is neural network used for deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+learn neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+dont understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+don't understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural network machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+what is the scope of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to make a mathematical model in neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how normal computer is different from neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how neural network is used for classification,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+what is delta error in neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+what is recurrent neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to prepare data for neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to make neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to learn neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to train neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+how to build a neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural network is a network or circuit of neurons,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+composed of artificial neurons or nodes,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+biological neural network is composed of a groups of chemically connected or functionally associated neuron,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks are information processing paradigms inspired by the way biological neural systems process data,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+Artificial intelligence and cognitive modeling try to simulate some properties of biological neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+"artificial neural networks have been applied successfully to speech recognition, image analysis and adaptive control",Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+origins of neural networks are based on efforts to model information processing in biological systems,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural network computing does not separate memory and processing,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+McCulloch and Pitts[8] (1943) created a computational model for neural networks based on mathematics and algorithms,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+called this model threshold logic,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
