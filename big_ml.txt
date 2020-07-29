@@ -13,8 +13,6 @@ Machine learning
 Machine learning
 Machine learning
 Random Forest
-bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye
-ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
 and
 data mining
 Problems[show]
@@ -23,6 +21,8 @@ tell you tell tell tell tell tell tell tell tell tell tell
 (classification • regression)
 [show]
 tell you tell tell tell tell tell tell tell tell tell tell
+
+bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye bye
 
 Clustering[show]
 Dimensionality reduction[show]
@@ -943,36 +943,6 @@ The paper benefitted from the reviews, comments and support of a set of Internet
 Special thanks to Walter Pienciak from the Institute of Electrical and Electronics Engineers (IEEE) for his significant contributions in his early review of the paper.
 
 Finally, the document was immensely improved by the input of a variety of Internet Society community members. Their wide areas of expertise and fresh perspectives served to greatly strengthen the final paper.
-
-Notes
-
-[1] See: https://en.wikipedia.org/wiki/Artificial_intelligence
-[2] For a full list of the abilities and principles that guide our work, see http://www.internetsociety.org/who-we-are/mission/values-and-principles
-[3] See https://www.weforum.org/agenda/2016/06/investors-are-backing-more-AI-startups-than-ever-before
-[4] See for example: UK House of Commons Science and Technology Committee’s “Robotics and artificial intelligence”, or White House Reports “Preparing for the Future of Artificial Intelligence” or “Artificial Intelligence, Automation, and the Economy”.
-[5] See: https://en.wikipedia.org/wiki/Artificial_intelligence
-[6] See the example of Aipoly, a smartphone app designed to assist people with visual impairment to navigate or identify objects by taking a photo and getting an audio description in return, https://techcrunch.com/2015/08/17/aipoly-putsmachine-vision-in-the-hands-of-the-visually-impaired/
-[7] Neural networks is a computational approach modeled on the human brain.
-[8] The history of neural networks is often described as starting with a seminal paper in 1943 by Warren McCulloch and Walter Pitts on how neurons might work, and where they modeled a simple neural network with electrical circuits.
-[9] See https://www.forbes.com/sites/louiscolumbus/2016/11/27/roundup-of-internet-of-things-forecasts-and-marketestimates-2016/#67bdbe2e292d
-[10] Google’s ground breaking experiment “AlphaGo”, the first AI to beat the human champion at the board game Go used approximately 280 GPU cards and 1,920 standard processors. See http://www.economist.com/news/science-andtechnology/21694540-win-or-lose-best-five-battle-contest-another-milestone
-[11] A good example of such progress is the program Libratus, the first AI to beat several of the top human players in no-limit Texas Hold ‘Em poker- a game that has been notoriously difficult for an AI to win due to incomplete information about the game state. See https://www.wired.com/2017/02/libratus/
-[12] For example, the use of machine learning for medical image analysis, https://www.technologyreview.com/s/602958/an-aiophthalmologist-shows-how-machine-learning-may-transform-medicine/
-[13] Burrell, J. “How the machine ‘thinks’: Understanding opacity in machine learning algorithms”. (2016), http://journals.sagepub.com/doi/abs/10.1177/2053951715622512
-[14] See, https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing#.bwuhXcwqn
-[15] Amodei, Dario, et al. “Concrete problems in AI safety.” (2016), https://arxiv.org/abs/1606.06565
-[16] Ibid
-[17] See https://techcrunch.com/2016/03/24/microsoft-silences-its-new-a-i-bot-tay-after-twitter-users-teach-it-racism/ ; https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/#sm.0000u2hwzvo38fdew261y8vofjdej
-[18] Huang, Ling, et al. “Adversarial machine learning.” Proceedings of the 4th ACM workshop on Security and artificial intelligence. ACM, 2011. (2011), http://dl.acm.org/citation.cfm?id=2046692
-[19] White House Report 2016: Artificial Intelligence, Automation and the Economy, https://obamawhitehouse.archives.gov/blog/2016/12/20/artificial-intelligence-automation-and-economy
-[20] Frey, C. B. and Osborne, M. A. “The Future of Employment: How Susceptible are Jobs to Computerization?” (2013), http://www.oxfordmartin.ox.ac.uk/publications/view/1314
-[21] Goodman, B. and Flaxman, S. “European Union regulations on algorithmic decision-making and a” right to explanation” (2016), https://arxiv.org/abs/1606.08813
-[22] See http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html
-[23] For a full list of the abilities and principles that guide our work, see http://www.internetsociety.org/who-we-are/mission/values-and-principles
-[24] For more information about IoT and ISOC’s guiding principles in this area, please see our previous publications: – https://www.internetsociety.org/policybriefs/iot – https://www.internetsociety.org/doc/iot-overview
-[25] ISOC, “Collaborative Security: An approach to tackling Internet Security issues” (2015), http://www.internetsociety.org/collaborativesecurity
-[26] For an example, see the principles and standards under development by the IEEE, http://standards.ieee.org/develop/indconn/ec/autonomous_systems.html
-[27] For more information about the key attributes of multistakeholder governance, please see ISOC’s “Internet Governance – Why the Multistakeholder Approach Works”, https://www.internetsociety.org/doc/internet-governance-why-multistakeholder-approach-works
 
 Artificial Intelligence, Technology
 AI.paper_ thumbnail
@@ -2473,7 +2443,7 @@ country_stats = prepare_country_stats(oecd_bli, gdp_per_capita) X = np.c_[countr
 # Visualize the data 
 country_stats.plot(kind='scatter', x="GDP per capita", y='Life satisfaction') plt.show() 
 # Select a linear model 
-lin_reg_model = sklearn.linear_model.LinearRegression() 
+lin_reg_model = sklearn.linear_model. 
 # Train the model 
 lin_reg_model.fit(X, y) 
 # Make a prediction for Cyprus 
@@ -2481,7 +2451,7 @@ X_new = [[22587]] # Cyprus' GDP per capita print(lin_reg_model.predict(X_new)) #
 
 If you had used an instance-based learning algorithm instead, you would have found that Slovenia has the closest GDP per capita to that of Cyprus ($20,732), and since the OECD data tells us that Slovenians’ life satisfaction is 5.7, you would have predicted a life satisfaction of 5.7 for Cyprus. If you zoom out a bit and look at the two next closest countries, you will find Portugal and Spain with life satisfactions of 5.1 and 6.5, respectively. Averaging these three values, you get 5.77, which is pretty close to your model-based pre­diction. This simple algorithm is called k-Nearest Neighbors regres­sion (in this example, k = 3). 
 Replacing the Linear Regression model with k-Nearest Neighbors regression in the previous code is as simple as replacing this line: 
-clf = sklearn.linear_model.LinearRegression() 
+clf = sklearn.linear_model. 
 with this one: 
 clf = sklearn.neighbors.KNeighborsRegressor(n_neighbors=3) 
 
@@ -3236,7 +3206,7 @@ Transformers. Some estimators (such as an imputer) can also transform a dataset;
 16 For more details on the design principles, see “API design for machine learning software: experiences from the scikit-learn project,” L. Buitinck, G. Louppe, M. Blondel, F. Pedregosa, A. Müller, et al. (2013). 
 
 that is equivalent to calling fit() and then transform() (but sometimes fit_transform() is optimized and runs much faster). 
-— Predictors. Finally, some estimators are capable of making predictions given a dataset; they are called predictors. For example, the LinearRegression model in the previous chapter was a predictor: it predicted life satisfaction given a country’s GDP per capita. A predictor has a predict() method that takes a dataset of new instances and returns a dataset of corresponding predictions. It also has a score() method that measures the quality of the predictions given a test set (and the corresponding labels in the case of supervised learning algorithms).17 
+— Predictors. Finally, some estimators are capable of making predictions given a dataset; they are called predictors. For example, the model in the previous chapter was a predictor: it predicted life satisfaction given a country’s GDP per capita. A predictor has a predict() method that takes a dataset of new instances and returns a dataset of corresponding predictions. It also has a score() method that measures the quality of the predictions given a test set (and the corresponding labels in the case of supervised learning algorithms).17 
 • 
 Inspection. All the estimator’s hyperparameters are accessible directly via public instance variables (e.g., imputer.strategy), and all the estimator’s learned parameters are also accessible via public instance variables with an underscore suffix (e.g., imputer.statistics_). 
 
@@ -3351,8 +3321,8 @@ Select and Train a Model
 At last! You framed the problem, you got the data and explored it, you sampled a training set and a test set, and you wrote transformation pipelines to clean up and prepare your data for Machine Learning algorithms automatically. You are now ready to select and train a Machine Learning model. 
 Training and Evaluating on the Training Set 
 The good news is that thanks to all these previous steps, things are now going to be much simpler than you might think. Let’s first train a Linear Regression model, like we did in the previous chapter: 
-from sklearn.linear_model import LinearRegression 
-lin_reg = LinearRegression() lin_reg.fit(housing_prepared, housing_labels) 
+from sklearn.linear_model import  
+lin_reg = () lin_reg.fit(housing_prepared, housing_labels) 
 Done! You now have a working Linear Regression model. Let’s try it out on a few instances from the training set: 
 >>> some_data = housing.iloc[:5] >>> some_labels = housing_labels.iloc[:5] >>> some_data_prepared = full_pipeline.transform(some_data) >>> print("Predictions:\t", lin_reg.predict(some_data_prepared)) Predictions: [ 303104. 44800. 308928. 294208. 368704.] >>> print("Labels:\t\t", list(some_labels)) Labels: [359400.0, 69700.0, 302100.0, 301300.0, 351900.0] 
 It works, although the predictions are not exactly accurate (e.g., the second prediction is off by more than 50%!). Let’s measure this regression model’s RMSE on the whole training set using Scikit-Learn’s mean_squared_error function: 
@@ -4046,7 +4016,7 @@ plt.plot(X_new, y_predict, "r-") plt.plot(X, y, "b.") plt.axis([0, 2, 0, 15]) pl
 
 
 The equivalent code using Scikit-Learn looks like this:3 
->>> from sklearn.linear_model import LinearRegression >>> lin_reg = LinearRegression() >>> lin_reg.fit(X, y) >>> lin_reg.intercept_, lin_reg.coef_ 
+>>> from sklearn.linear_model import >>> lin_reg = () >>> lin_reg.fit(X, y) >>> lin_reg.intercept_, lin_reg.coef_ 
 (array([ 4.21509616]), array([[ 2.77011339]])) 
 >>> lin_reg.predict(X_new) 
 array([[ 4.21509616], [ 9.75532293]]) 
@@ -4203,7 +4173,7 @@ The algorithm’s progress in parameter space is less erratic than with SGD, esp
 Let’s compare the algorithms we’ve discussed so far for Linear Regression8 (recall that m is the number of training instances and n is the number of features); see Table 4-1. 
 Table 4-1. Comparison of algorithms for Linear Regression 
 
-Normal Equation Fast No Slow 0 No LinearRegression Batch GD Slow No Fast 2 Yes n/a 
+Normal Equation Fast No Slow 0 No  Batch GD Slow No Fast 2 Yes n/a 
 8 While the Normal Equation can only perform Linear Regression, the Gradient Descent algorithms can be used to train many other models, as we will see. 
 
 
@@ -4221,8 +4191,8 @@ m = 100 X = 6 * np.random.rand(m, 1) -3 y = 0.5 * X**2 + X + 2 + np.random.randn
 
 Clearly, a straight line will never fit this data properly. So let’s use Scikit-Learn’s Poly nomialFeatures class to transform our training data, adding the square (2nd-degree polynomial) of each feature in the training set as new features (in this case there is just one feature): 
 >>> from sklearn.preprocessing import PolynomialFeatures >>> poly_features = PolynomialFeatures(degree=2, include_bias=False) >>> X_poly = poly_features.fit_transform(X) >>> X[0] array([-0.75275929]) >>> X_poly[0] array([-0.75275929, 0.56664654]) 
-X_poly now contains the original feature of X plus the square of this feature. Now you can fit a LinearRegression model to this extended training data (Figure 4-13): 
->>> lin_reg = LinearRegression() 
+X_poly now contains the original feature of X plus the square of this feature. Now you can fit a model to this extended training data (Figure 4-13): 
+>>> lin_reg = () 
 >>> lin_reg.fit(X_poly, y) 
 >>> lin_reg.intercept_, lin_reg.coef_ 
 (array([ 1.78134581]), array([[ 0.93366893, 0.56456263]])) 
@@ -4251,7 +4221,7 @@ def plot_learning_curves(model, X, y): X_train, X_val, y_train, y_val = train_te
 model.fit(X_train[:m], y_train[:m]) y_train_predict = model.predict(X_train[:m]) y_val_predict = model.predict(X_val) train_errors.append(mean_squared_error(y_train_predict, y_train[:m])) val_errors.append(mean_squared_error(y_val_predict, y_val)) 
 plt.plot(np.sqrt(train_errors), "r-+", linewidth=2, label="train") plt.plot(np.sqrt(val_errors), "b-", linewidth=3, label="val") 
 Let’s look at the learning curves of the plain Linear Regression model (a straight line; Figure 4-15): 
-lin_reg = LinearRegression() plot_learning_curves(lin_reg, X, y) 
+lin_reg = () plot_learning_curves(lin_reg, X, y) 
 
 
 This deserves a bit of explanation. First, let’s look at the performance on the training data: when there are just one or two instances in the training set, the model can fit them perfectly, which is why the curve starts at zero. But as new instances are added to the training set, it becomes impossible for the model to fit the training data per­fectly, both because the data is noisy and because it is not linear at all. So the error on the training data goes up until it reaches a plateau, at which point adding new instan­ces to the training set doesn’t make the average error much better or worse. Now let’s look at the performance of the model on the validation data. When the model is trained on very few training instances, it is incapable of generalizing properly, which is why the validation error is initially quite big. Then as the model is shown more training examples, it learns and thus the validation error slowly goes down. However, once again a straight line cannot do a good job modeling the data, so the error ends up at a plateau, very close to the other curve. 
@@ -4262,7 +4232,7 @@ Now let’s look at the learning curves of a 10th-degree polynomial model on the
 from sklearn.pipeline import Pipeline 
 polynomial_regression = Pipeline(( 
 ("poly_features", PolynomialFeatures(degree=10, include_bias=False)), 
-("sgd_reg", LinearRegression()), 
+("sgd_reg", ()), 
 )) 
 plot_learning_curves(polynomial_regression, X, y) 
 These learning curves look a bit like the previous ones, but there are two very impor­tant differences: 
@@ -4514,8 +4484,8 @@ Let’s try to build a classifier to detect the Iris-Virginica type based only o
 >>> y = (iris["target"] == 2).astype(np.int) # 1 if Iris-Virginica, else 0 
 Now let’s train a Logistic Regression model: 
 
-from sklearn.linear_model import LogisticRegression 
-log_reg = LogisticRegression() log_reg.fit(X, y) 
+from sklearn.linear_model import Logistic Regression 
+log_reg = Logistic Regression() log_reg.fit(X, y) 
 Let’s look at the model’s estimated probabilities for flowers with petal widths varying from 0 to 3 cm (Figure 4-23): 
 X_new = np.linspace(0, 3, 1000).reshape(-1, 1) y_proba = log_reg.predict_proba(X_new) plt.plot(X_new, y_proba[:, 1], "g-", label="Iris-Virginica") plt.plot(X_new, y_proba[:, 0], "b--", label="Not Iris-Virginica") 
 # + more Matplotlib code to make the image look pretty 
@@ -4532,7 +4502,7 @@ Figure 4-24 shows the same dataset but this time displaying two features: petal 
 
 Just like the other linear models, Logistic Regression models can be regularized using l1 or l2 penalties. Scitkit-Learn actually adds an l2 penalty by default. 
 
-The hyperparameter controlling the regularization strength of a Scikit-Learn LogisticRegression model is not alpha (as in other linear models), but its inverse: C. The higher the value of C, the less the model is regularized. 
+The hyperparameter controlling the regularization strength of a Scikit-Learn Logistic Regression model is not alpha (as in other linear models), but its inverse: C. The higher the value of C, the less the model is regularized. 
 
 
 Softmax Regression 
@@ -4631,10 +4601,10 @@ m
 i =1 
 
 Now you can compute the gradient vector for every class, then use Gradient Descent (or any other optimization algorithm) to find the parameter matrix T that minimizes the cost function. 
-Let’s use Softmax Regression to classify the iris flowers into all three classes. Scikit­Learn’s LogisticRegression uses one-versus-all by default when you train it on more than two classes, but you can set the multi_class hyperparameter to "multinomial" to switch it to Softmax Regression instead. You must also specify a solver that sup­ports Softmax Regression, such as the "lbfgs" solver (see Scikit-Learn’s documenta-tion for more details). It also applies l2 regularization by default, which you can control using the hyperparameter C. 
+Let’s use Softmax Regression to classify the iris flowers into all three classes. Scikit­Learn’s Logistic Regression uses one-versus-all by default when you train it on more than two classes, but you can set the multi_class hyperparameter to "multinomial" to switch it to Softmax Regression instead. You must also specify a solver that sup­ports Softmax Regression, such as the "lbfgs" solver (see Scikit-Learn’s documenta-tion for more details). It also applies l2 regularization by default, which you can control using the hyperparameter C. 
 
 X = iris["data"][:, (2, 3)] # petal length, petal width y = iris["target"] 
-softmax_reg = LogisticRegression(multi_class="multinomial",solver="lbfgs", C=10) softmax_reg.fit(X, y) 
+softmax_reg = Logistic Regression(multi_class="multinomial",solver="lbfgs", C=10) softmax_reg.fit(X, y) 
 So the next time you find an iris with 5 cm long and 2 cm wide petals, you can ask your model to tell you what type of iris it is, and it will answer Iris-Virginica (class 2) with 94.2% probability (or Iris-Versicolor with 5.8% probability): 
 >>> softmax_reg.predict([[5, 2]]) 
 array([2]) 
@@ -5434,15 +5404,15 @@ Ensemble methods work best when the predictors are as independ­ent from one ano
 
 The following code creates and trains a voting classifier in Scikit-Learn, composed of three diverse classifiers (the training set is the moons dataset, introduced in Chap­
 ter 5): 
-from sklearn.ensemble import RandomForestClassifier from sklearn.ensemble import VotingClassifier from sklearn.linear_model import LogisticRegression from sklearn.svm import SVC 
-log_clf = LogisticRegression() rnd_clf = RandomForestClassifier() svm_clf = SVC() 
+from sklearn.ensemble import RandomForestClassifier from sklearn.ensemble import VotingClassifier from sklearn.linear_model import Logistic Regression from sklearn.svm import SVC 
+log_clf = Logistic Regression() rnd_clf = RandomForestClassifier() svm_clf = SVC() 
 voting_clf = VotingClassifier( 
 estimators=[('lr', log_clf), ('rf', rnd_clf), ('svc', svm_clf)], 
 voting='hard' 
 ) 
 voting_clf.fit(X_train, y_train) 
 Let’s look at each classifier’s accuracy on the test set: 
->>> from sklearn.metrics import accuracy_score >>> for clf in (log_clf, rnd_clf, svm_clf, voting_clf): >>> clf.fit(X_train, y_train) >>> y_pred = clf.predict(X_test) >>> print(clf.__class__.__name__, accuracy_score(y_test, y_pred)) LogisticRegression 0.864 RandomForestClassifier 0.872 SVC 0.888 VotingClassifier 0.896 
+>>> from sklearn.metrics import accuracy_score >>> for clf in (log_clf, rnd_clf, svm_clf, voting_clf): >>> clf.fit(X_train, y_train) >>> y_pred = clf.predict(X_test) >>> print(clf.__class__.__name__, accuracy_score(y_test, y_pred)) Logistic Regression 0.864 RandomForestClassifier 0.872 SVC 0.888 VotingClassifier 0.896 
 There you have it! The voting classifier slightly outperforms all the individual classifi­ers. 
 If all classifiers are able to estimate class probabilities (i.e., they have a pre dict_proba() method), then you can tell Scikit-Learn to predict the class with the highest class probability, averaged over all the individual classifiers. This is called soft voting. It often achieves higher performance than hard voting because it gives more weight to highly confident votes. All you need to do is replace voting="hard" with voting="soft" and ensure that all classifiers can estimate class probabilities. This is not the case of the SVC class by default, so you need to set its probability hyperpara­meter to True (this will make the SVC class use cross-validation to estimate class prob­abilities, slowing down training, and it will add a predict_proba() method). If you modify the preceding code to use soft voting, you will find that the voting classifier achieves over 91% accuracy! 
 
@@ -5870,8 +5840,8 @@ Figure 8-10 shows the Swiss roll, reduced to two dimensions using a linear kerne
 
 Selecting a Kernel and Tuning Hyperparameters 
 As kPCA is an unsupervised learning algorithm, there is no obvious performance measure to help you select the best kernel and hyperparameter values. However, dimensionality reduction is often a preparation step for a supervised learning task (e.g., classification), so you can simply use grid search to select the kernel and hyper-parameters that lead to the best performance on that task. For example, the following code creates a two-step pipeline, first reducing dimensionality to two dimensions using kPCA, then applying Logistic Regression for classification. Then it uses Grid SearchCV to find the best kernel and gamma value for kPCA in order to get the best classification accuracy at the end of the pipeline: 
-from sklearn.model_selection import GridSearchCV from sklearn.linear_model import LogisticRegression from sklearn.pipeline import Pipeline 
-clf = Pipeline([ ("kpca", KernelPCA(n_components=2)), ("log_reg", LogisticRegression()) 
+from sklearn.model_selection import GridSearchCV from sklearn.linear_model import Logistic Regression from sklearn.pipeline import Pipeline 
+clf = Pipeline([ ("kpca", KernelPCA(n_components=2)), ("log_reg", Logistic Regression()) 
 ]) 
 param_grid = [{ "kpca__gamma": np.linspace(0.03, 0.05, 10), "kpca__kernel": ["rbf", "sigmoid"] 
 }] 
@@ -9709,38 +9679,13 @@ Equation 16-4. TD Learning algorithm
 
 
 
+spelling
+
 TD Learning has many similarities with Stochastic Gradient Descent, in particular the fact that it handles one sample at a time. Just like SGD, it can only truly converge if you gradually reduce the learning rate (otherwise it will keep bouncing around the opti­mum). 
 For each state s, this algorithm simply keeps track of a running average of the imme­diate rewards the agent gets upon leaving that state, plus the rewards it expects to get later (assuming it acts optimally). 
 Similarly, the Q-Learning algorithm is an adaptation of the Q-Value Iteration algo­rithm to the situation where the transition probabilities and the rewards are initially unknown (see Equation 16-5). 
 Equation 16-5. Q-Learning algorithm 
 
-1- a 
-Qk
-s, a 
-+ a
-r + . . max Qk 
-s', a'
-Qk +1 
-s, a 
-a' 
-
-For each state-action pair (s, a), this algorithm keeps track of a running average of the rewards r the agent gets upon leaving the state s with action a, plus the rewards it expects to get later. Since the target policy would act optimally, we take the maximum of the Q-Value estimates for the next state. 
-Here is how Q-Learning can be implemented: 
-
-import numpy.random as rnd 
-learning_rate0 = 0.05 learning_rate_decay = 0.1 n_iterations = 20000 
-s=0 # start in state 0 
-Q = np.full((3, 3), -np.inf) # -inf for impossible actions for state, actions in enumerate(possible_actions): 
-Q[state, actions] = 0.0 # Initial value = 0.0, for all possible actions 
-for iteration in range(n_iterations): 
-a = rnd.choice(possible_actions[s]) # choose an action (randomly) 
-sp = rnd.choice(range(3), p=T[s, a]) # pick next state using T[s, a] 
-reward = R[s, a, sp] 
-learning_rate = learning_rate0 / (1 + iteration * learning_rate_decay) 
-Q[s, a] = learning_rate * Q[s, a] + (1 -learning_rate) * ( 
-reward + discount_rate * np.max(Q[sp]) 
-) 
-s = sp # move to next state 
 Given enough iterations, this algorithm will converge to the optimal Q-Values. This is called an off-policy algorithm because the policy being trained is not the one being executed. It is somewhat surprising that this algorithm is capable of learning the opti­mal policy by just watching an agent act randomly (imagine learning to play golf when your teacher is a drunken monkey). Can we do better? 
 
 Exploration Policies 
@@ -11656,8 +11601,8 @@ sklearn.decomposition.KernelPCA,
 218-219, 221 sklearn.decomposition.PCA, 214 sklearn.ensemble.AdaBoostClassifier, 195 sklearn.ensemble.BaggingClassifier, 186-189 sklearn.ensemble.GradientBoostingRegres­
 sor, 196, 198-199 sklearn.ensemble.RandomForestClassifier, 
 92, 95, 184 sklearn.ensemble.RandomForestRegressor, 
-70, 72-74, 189-190, 196 sklearn.ensemble.VotingClassifier, 184 sklearn.externals.joblib, 71 sklearn.linear_model.ElasticNet, 132 sklearn.linear_model.Lasso, 132 sklearn.linear_model.LinearRegression, 
-20-21, 62, 68, 110, 120, 122, 124-125 sklearn.linear_model.LogisticRegression, 
+70, 72-74, 189-190, 196 sklearn.ensemble.VotingClassifier, 184 sklearn.externals.joblib, 71 sklearn.linear_model.ElasticNet, 132 sklearn.linear_model.Lasso, 132 sklearn.linear_model., 
+20-21, 62, 68, 110, 120, 122, 124-125 sklearn.linear_model.Logistic Regression, 
 137, 139, 141, 184, 219 sklearn.linear_model.Perceptron, 259 sklearn.linear_model.Ridge, 129 sklearn.linear_model.SGDClassifier, 82 sklearn.linear_model.SGDRegressor, 
 119-120, 129, 132-133 sklearn.manifold.LocallyLinearEmbedding, 
 221-222 sklearn.metrics.accuracy_score(), 184, 188, 
@@ -11804,6 +11749,549 @@ Many of the animals on O’Reilly covers are endangered; all of them are importa
 The cover image is from Wood’s Illustrated Natural History. The cover fonts are URW Typewriter and Guardian Sans. The text font is Adobe Minion Pro; the heading font is Adobe Myriad Condensed; and the code font is Dalton Maag’s Ubuntu Mono. 
 
 
+500 Most Common Words in English
+a
+about
+act
+actually
+add
+after
+again
+against
+age
+ago
+air
+all
+also
+always
+am
+among
+an
+and
+animal
+another
+answer
+appear
+are
+area
+as
+ask
+at
+autumn
+A B
+back
+ball
+base
+be
+beauty
+because
+become
+bed
+been
+before
+began
+begin
+behind
+best
+better
+better
+between
+big
+bird
+black
+blue
+boat
+body
+book
+both
+bottom
+box
+boy
+bring
+brought
+build
+built
+busy
+but
+by
+C
+D E F
+call
+came
+can
+car
+care
+carefully
+carry
+centre
+certain
+change
+check
+child
+children
+city
+class
+clear
+close
+cold
+colour
+come
+common
+community
+complete
+contain
+could
+country
+course
+create
+cried
+cross
+cry
+cut
+dark
+day
+decide
+decided
+deep
+develop
+did
+didn't
+different
+do
+does
+dog
+don't
+door
+down
+draw
+dream
+drive
+dry
+during
+www.summerboardingcourses.co.uk info@summerboardingcourses.co.uk
+each
+early
+earth
+east
+easy
+eat
+effort
+enough
+every
+example
+experience
+explain
+eye
+face
+fact
+family
+far
+farm
+fast
+father
+feel
+feet
+few
+field
+find
+fire
+first
+fish
+five
+fly
+follow
+food
+form
+found
+four
+friend
+from
+front
+full
+500 Most Common Words in English
+game
+gave
+get
+girl
+give
+go
+gold
+good
+got
+government
+great
+green
+ground
+group
+grow
+guy
+G H
+had
+half
+hand
+happen
+happened
+hard
+has
+have
+he
+hear
+heat
+heavy
+help
+her
+here
+high
+his
+hold
+home
+horse
+hot
+hour
+house
+hundred
+I
+L M N
+I
+idea
+if
+important
+in
+inch
+include
+into
+is
+island
+it
+just
+keep
+kind
+king
+knew
+know
+known
+land
+language
+large
+last
+late
+later
+laugh
+lead
+learn
+leave
+left
+less
+less
+let
+letter
+life
+light
+like
+line
+list
+listen
+little
+live
+long
+look
+love
+low
+www.summerboardingcourses.co.uk info@summerboardingcourses.co.uk
+machine
+made
+make
+man
+many
+map
+mark
+may
+mean
+measure
+men
+might
+mile
+million
+mind
+minute
+name
+nation
+near
+need
+never
+new
+next
+night
+no
+north
+note
+notice
+noun
+now
+number
+J K
+miss
+money
+month
+moon
+more
+more
+morning
+most
+mother
+mountain
+move
+much
+music
+must
+my
+500 Most Common Words in English
+object
+of
+off
+office
+often
+oh
+oil
+old
+on
+once
+one
+only
+open
+or
+order
+other
+our
+out
+over
+O P
+page
+pair
+part
+pass
+passed
+people
+perhaps
+person
+picture
+place
+plan
+plane
+plant
+play
+point
+power
+probably
+problem
+product
+provide
+pull
+put
+question
+quick
+S T
+rain
+ran
+reach
+read
+ready
+real
+receive
+record
+red
+relationship
+remember
+right
+river
+road
+rock
+room
+round
+rule
+run
+said
+same
+saw
+say
+school
+science
+sea
+season
+second
+see
+seem
+self
+sentence
+serve
+set
+several
+shape
+she
+ship
+short
+should
+show
+shown
+side
+simple
+since
+sing
+sit
+six
+size
+sleep
+slow
+small
+snow
+www.summerboardingcourses.co.uk info@summerboardingcourses.co.uk
+so
+some
+something
+song
+soon
+sound
+south
+space
+special
+spell
+spring
+stand
+star
+start
+stay
+step
+stood
+table
+take
+talk
+teach
+tell
+ten
+test
+than
+that
+the
+their
+them
+then
+there
+these
+they
+thing
+R
+stop
+story
+street
+strong
+study
+such
+summer
+sun
+system
+Q
+think
+this
+those
+though
+thought
+thousand
+three
+through
+time
+to
+together
+told
+too
+took
+top
+toward
+town
+travel
+tree
+true
+try
+turn
+two
+500 Most Common Words in English
+under
+understand
+until
+up
+upon
+us
+use
+usual
+very
+voice
+vowel
+U
+year
+yes
+you
+young
+www.summerboardingcourses.co.uk info@summerboardingcourses.co.uk
+V W Y
+wait
+walk
+want
+war
+warm
+was
+watch
+water
+wave
+way
+we
+week
+weight
+were
+west
+what
+wheel
+where
+which
+white
+who
+why
+will
+wind
+winter
+with
+without
+woman
+wonder
+wood
+word
+words
+work
+world
+would
+write
+wrong
+hi
+
+quit words 
+quit bye thanks exit thankyou thanku goodbye later laters sayonara seeyou
+
+greetings
+hello hey hi hello how are you bot how's it going help i need some help i need help 
+hi there hello there hi chatbot hi greatlearning 
+anybody there are you a chatbot 
+are you human greetings nice to meet you whatsup what'sup
+good morning good afternoon good evening 
+good night are you real you're a machine tell me something 
+what can you do how can you help me i have a question 
+can you help me whats your name greetings bot morning 
+afternoon hello chatbot check test howdy 
+morning afternoon evening hey man how's your day going
+its been a while how are you doing what's going on
+hows everything how are things how's life how's your day
+good to see you nice to see you long time no see 
+pleased to meet you it's nice to meet you how have you been 
+how do you do yo hey mate whazzup 
+ok cool
+hows
 
 
 
