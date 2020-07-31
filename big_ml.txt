@@ -416,7 +416,7 @@ Fairness (machine learning)
 References
  "Machine Learning textbook". www.cs.cmu.edu. Retrieved 2020-05-28.
  "Deep Learning". www.deeplearningbook.org.
- The definition "without being explicitly programmed" is often attributed to Arthur Samuel, who coined the term "machine learning" in 1959, but the phrase is not found verbatim in this publication, and may be a paraphrase that appeared later. Confer "Paraphrasing Arthur Samuel (1959), the question is: How can computers learn to solve problems without being explicitly programmed?" in Koza, John R.; Bennett, Forrest H.; Andre, David; Keane, Martin A. (1996). Automated Design of Both the Topology and Sizing of Analog Electrical Circuits Using Genetic Programming. Artificial Intelligence in Design '96. Springer, Dordrecht. pp. 151–170. doi:10.1007/978-94-009-0279-4_9.
+ The definition "without being explicitly programmed" is often attributed to Arthur Samuel, who coined the term "machine learning" in 1959, but the phrase is not found verbatim in this publication, and may be a paraphrase that appeared later. Confer "Paraphrasing Arthur Samuel (1959), the question is: How can computers learn to solve problems without being explicitly programmed?" in Koza, John R.; Bennett, H.; Andre, David; Keane, Martin A. (1996). Automated Design of Both the Topology and Sizing of Analog Electrical Circuits Using Genetic Programming. Artificial Intelligence in Design '96. Springer, Dordrecht. pp. 151–170. doi:10.1007/978-94-009-0279-4_9.
  Bishop, C. M. (2006), Pattern Recognition and Machine Learning, Springer, ISBN 978-0-387-31073-2
  Machine learning and pattern recognition "can be viewed as two facets of the same field."[4]:vii
  Friedman, Jerome H. (1998). "Data Mining and Statistics: What's the connection?". Computing Science and Statistics. 29 (1): 3–9.
@@ -1628,350 +1628,6 @@ View all posts by Jason Brownlee →
  A Gentle Introduction to Maximum a Posteriori (MAP) for Machine LearningHow to Save a NumPy Array to File for Machine Learning 
 51 Responses to 14 Different Types of Learning in Machine Learning
 
-Avram November 11, 2019 at 7:23 am #
-Hi Jason,
-Great post again.Thanks for it.
-Are you planning to post about reinforcement learning examples and issues?
-
-REPLY
-
-Jason Brownlee November 11, 2019 at 1:32 pm #
-Thanks.
-
-Perhaps in the future. Why are you intersted in the topic?
-
-REPLY
-
-Gareth November 11, 2019 at 8:47 pm #
-More practical texts on reinforcement learning would be a good thing. The material in this space is either too specific on the theory or too much repetition on pre-existing open ai gym environments.
-
-REPLY
-
-Jason Brownlee November 12, 2019 at 6:38 am #
-Thanks.
-
-The tech doesn’t look useful for anything except games, e.g. the gym, and robotics. That’s probably why there are no useful examples.
-
-REPLY
-
-Avram November 12, 2019 at 9:34 am #
-I don’t agree with you.You can use RL in travel salesman problem,job scheduling,vehicle routing problems etc.that has not discovered yet.So,I can see the topic will be promising in lots of industrial areas in the future.
-
-
-Jason Brownlee November 12, 2019 at 2:02 pm #
-You can, but classical combinatorial optimization methods do these problems better and faster. E.g. you would not use it “at work”, at least from what I can see.
-
-
-Prof Ravi Vadlamani November 16, 2019 at 1:57 am #
-Very good post!
-
-REPLY
-
-Jason Brownlee November 16, 2019 at 7:27 am #
-Thanks!
-
-REPLY
-
-roberto November 20, 2019 at 10:36 pm #
-I’m also interested in it, specifically for the time series.
-
-REPLY
-
-Souleymane THIAM January 4, 2020 at 11:30 pm #
-Very important post.
-thank you a lot dear teacher
-
-REPLY
-
-Jason Brownlee January 5, 2020 at 7:05 am #
-Thanks.
-
-REPLY
-
-Avram November 11, 2019 at 7:19 pm #
-I think,in the near future,this topic and supervised and unsupervised models will be gathered to form strong AI.Knowing it may be for anybody who is interested in AI.
-
-REPLY
-
-Jason Brownlee November 12, 2019 at 6:36 am #
-Thanks for sharing.
-
-REPLY
-
-marco November 12, 2019 at 6:53 pm #
-Hello Jason,
-question about GAN.
-Is possibile to implement a GAN only with KERAS? Is possibile with Sklearn?
-Do you have an easy example to better undestand and try GAN?
-What are possible fields of application of GAN?
-Thanks,
-Marco
-
-REPLY
-
-Jason Brownlee November 13, 2019 at 5:38 am #
-Yes, you can implement GANs with Keras.
-
-I have many examples, start here:
-https://machinelearningmastery.com/start-here/#gans
-
-REPLY
-
-Savan Vachhani November 13, 2019 at 12:53 am #
-Hi Jason,
-
-I am loving your website and all the work you have done for a beginner. A quick non-technical question though – why there isn’t much stuff that uses Google’s Colab? Any particular reason?
-
-Thanks
-
-REPLY
-
-Jason Brownlee November 13, 2019 at 5:47 am #
-Thanks!
-
-I try to stay agnostic from platforms like google/ms/amazon. Run the code wherever you like.
-
-REPLY
-
-Savan Vachhani November 22, 2019 at 9:32 pm #
-Hi Jason, thank you for your reply. I get what you mean now that I have dabbled in the field for some time.
-
-REPLY
-
-Jason Brownlee November 23, 2019 at 6:50 am #
-Thanks.
-
-REPLY
-
-Patryk Golabek November 15, 2019 at 6:08 am #
-This is a really nice post. I think the best one so far and I do read all of them.
-I’m stealing this one for our internal wiki.
-
-REPLY
-
-Jason Brownlee November 15, 2019 at 7:57 am #
-Thanks!
-
-REPLY
-
-Hammid Olanrewaju Adeleke December 1, 2019 at 3:34 am #
-Dear Author,
-
-Great post from you as usual.
-
-Please I need you to shed more light on other techniques of adding attributes to data sets apart from Genetic Algorithm (And perhaps the better or the best among them based on literatures).
-Also how is Hybridization of algorithms achieved or implemented, for example in WEKA.
-
-Thank you whilst awaiting your response.
-
-REPLY
-
-Jason Brownlee December 1, 2019 at 5:43 am #
-Thanks!
-
-I believe you are describing feature engineering. Perhaps this will give you ideas:
-http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
-
-REPLY
-
-Nordin November 15, 2019 at 9:56 am #
-Great post!
-
-REPLY
-
-Jason Brownlee November 16, 2019 at 7:15 am #
-Thanks.
-
-REPLY
-
-Leonardo November 17, 2019 at 9:55 am #
-Hi Jason, Nice post.
-I have one question about another kind of learning, http://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf, self-taught learning created by Andrew Ng. Maybe you didn’t know it or it wasn’t relevant?
-
-Whats your opinion?
-
-Thanks
-
-REPLY
-
-Jason Brownlee November 18, 2019 at 6:41 am #
-Thanks!
-
-Yes, I believe this is “self-supervised learning” in the above post.
-
-REPLY
-
-Tsang November 18, 2019 at 1:45 pm #
-Hi nice post, what about these other ones:
-
-Federated Learning https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
-
-Curriculum Learning https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf
-
-Confident Learning https://l7.curtisnorthcutt.com/confident-learning
-
-Weakly supervised Learning https://pdfs.semanticscholar.org/3adc/fd254b271bcc2fb7e2a62d750db17e6c2c08.pdf
-
-REPLY
-
-Jason Brownlee November 18, 2019 at 1:48 pm #
-Very nice, thanks for sharing!
-
-REPLY
-
-Jewel Ahmed November 28, 2019 at 5:53 pm #
-Thank you for sharing.
-
-REPLY
-
-Jason Brownlee November 29, 2019 at 6:44 am #
-You’re welcome.
-
-REPLY
-
-EDDISON HAYDEN LEWIS December 29, 2019 at 3:26 am #
-The article is very insightful as it indicates the all relevant paradigms of machine learning in practice. But, “What about the prospect of Auto Machine Learning?”
-
-REPLY
-
-Jason Brownlee December 29, 2019 at 6:08 am #
-Thanks.
-
-Good suggestion!
-
-REPLY
-
-Rajesh Chukka December 31, 2019 at 1:24 am #
-Hi nice post ,Very insightful
-also add the meta learning to the stack ..’Learning to Learn’ is currently hottest research areas in deep learning
-
-REPLY
-
-Jason Brownlee December 31, 2019 at 7:33 am #
-Great suggestion! Thanks.
-
-REPLY
-
-Jack Rief February 18, 2020 at 7:50 pm #
-Hi Jason.
-You posted great concepts on Artificial Intelligence. I am happy to know that there is someone who is posting blogs regarding Artificial Intelligence. You properly described about the problems and techniques occur in machine work of Artificial Intelligence. You should post some more blogs related to Artificial Intelligence.
-
-REPLY
-
-Jason Brownlee February 19, 2020 at 8:00 am #
-Thanks, but it is machine learning, not AI. E.g. a subfield of AI.
-
-AI is not really useful to the average developer. Predictive modeling with machine learning is.
-
-REPLY
-
-Maryam April 3, 2020 at 8:54 am #
-Dear Jason,
-thanks for your explanation of “Multi-Task learning”.
-But I just want you to give me your tutorial about implementing “auxiliary loss” in that.
-Waiting for your reply.
-
-Best
-Maryam
-
-REPLY
-
-Jason Brownlee April 3, 2020 at 9:41 am #
-Thanks for your suggestion.
-
-REPLY
-
-Ravish Qureshi May 6, 2020 at 4:34 pm #
-This post just saved me hours of googling and time! Awsome post Jason.
-
-REPLY
-
-Jason Brownlee May 7, 2020 at 6:41 am #
-Thanks, I’m happy to hear that!
-
-REPLY
-
-A Rai May 16, 2020 at 3:38 am #
-Hi Jason,
-your website helps me alot in my PhD. Thank you very much for sharing.
-
-REPLY
-
-Jason Brownlee May 16, 2020 at 6:18 am #
-You’re welcome, I’m happy that it helps!
-
-REPLY
-
-Star June 5, 2020 at 1:58 pm #
-Hi Jason;
-Thanks for this interesting post, I was just wondering if you show us an example of reinforcement learning?
-What is RL used for other than games? How do we know if it is a good idea to apply it for our set of data?
-
-REPLY
-
-Jason Brownlee June 6, 2020 at 7:41 am #
-Good question, I answer it here:
-https://machinelearningmastery.com/faq/single-faq/do-you-have-tutorials-on-deep-reinforcement-learning
-
-REPLY
-
-Gemma Almendros June 14, 2020 at 7:01 pm #
-Hi Jason, im the girl that asked you about a work from University on other post.
-I’d like to know if Multitask learning could be linear or if it has some types within and if it’s used just for supervised problems or other problems?
-
-Gemma.
-
-REPLY
-
-Jason Brownlee June 15, 2020 at 6:04 am #
-Multi-task learning could use linear or nonlinear methods.
-
-Yes, multi-task learning could be further divided into sub-types of problems, no doubt.
-
-REPLY
-
-Karl Johan Haarberg June 24, 2020 at 11:21 pm #
-Great post, Jason.
-
-I would recommend making a distinction between shallow and deep learning. Given your relatively comprehensive list of different types of learning in ML, you might consider introducing extended analytics (i.e. utilising a combination of several different AI, ML, and DL techniques = augmented/virtual/mixed analytics) wrt. learning. I believe that e.g. linear/non-linear, stochastic/ deterministic, regular/shrinkage, etc. fall more into the art and technique of feature engineering. Finally, given the tremendous work in the research frontier on XAI (and commercial AI), I would also add explainable learning.
-
-Best regards, Karl Johan
-
-REPLY
-
-Jason Brownlee June 25, 2020 at 6:20 am #
-Great suggestions, thanks Karl!
-
-REPLY
-
-Daniel Kapitan July 4, 2020 at 5:00 pm #
-Excellent post, Jason! I am in the process of creating a tree of machine learning algorithms for educational purposes (see https://kumu.io/dkapitan/tree-of-machine-learning-algorithms/ , it’s work in progress) and I am trying to figure out how to map types of learning.
-
-One specific question I have is where to position feature / representational learning in all of this. It seems a major concept for e.g. textmining and image classification. Problem is find is that as you go down the tree, it becomes a bit convoluted since many different types of learning are combined.
-
-Any thoughts or suggestions are most welcome!
-
-REPLY
-
-Jason Brownlee July 5, 2020 at 6:59 am #
-That sounds like a fun project!
-
-Feature selection and representation learning like autoencoders are a type of data preparation.
-
-REPLY
-Leave a Reply
-
-Name (required)
-
-Email (will not be published) (required)
-
-Website
-
-
-Welcome!
-My name is Jason Brownlee PhD, and I help developers get results with machine learning.
-Read more
-Never miss a tutorial:
 
 LinkedIn     Twitter     Facebook     Email Newsletter     RSS Feed
 Picked for you:
@@ -1991,10 +1647,6 @@ The EBook Catalog is where I
 keep the Really Good stuff.
 
 SEE WHAT'S INSIDE
-
-2020 Machine Learning Mastery Pty. Ltd. All Rights Reserved.
-Address: PO Box 206, Vermont Victoria 3133, Australia. | ACN: 626 223 336.
-LinkedIn | Twitter | Facebook | Newsletter | RSS
 
 Privacy | Disclaimer | Terms | Contact | Sitemap | Search
 
@@ -2165,38 +1817,11 @@ This book is here to help you get your job done. In general, if example code is 
 We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (O’Reilly). Copyright 2017 Aurélien Géron, 978-1-491-96229-9.” 
 If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at permissions@oreilly.com. 
 
-O’Reilly Safari 
 
 Safari (formerly Safari Books Online) is a membership-based training and reference platform for enterprise, government, educators, and individuals. 
 Members have access to thousands of books, training videos, Learning Paths, interac­tive tutorials, and curated playlists from over 250 publishers, including O’Reilly Media, Harvard Business Review, Prentice Hall Professional, Addison-Wesley Profes­sional, Microsoft Press, Sams, Que, Peachpit Press, Adobe, Focal Press, Cisco Press, Press, FT Press, Apress, Manning, New Riders, McGraw-Hill, Jones & Bartlett, and Course Technology, among others. 
 
-For more information, please visit http://oreilly.com/safari. 
 
-How to Contact Us 
-Please address comments and questions concerning this book to the publisher: 
-O’Reilly Media, Inc. 
-1005 Gravenstein Highway North 
-Sebastopol, CA 95472 
-800-998-9938 (in the United States or Canada) 
-707-829-0515 (international or local) 
-707-829-0104 (fax) 
-We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at http://bit.ly/hands-on-machine-learning­
-with-scikit-learn-and-tensorflow. 
-To comment or ask technical questions about this book, send email to bookques­
-
-tions@oreilly.com. For more information about our books, courses, conferences, and news, see our web­site at http://www.oreilly.com. 
-Find us on Facebook: http://facebook.com/oreilly Follow us on Twitter: http://twitter.com/oreillymedia Watch us on YouTube: http://www.youtube.com/oreillymedia 
-
-Acknowledgments 
-I would like to thank my Google colleagues, in particular the YouTube video classifi­cation team, for teaching me so much about Machine Learning. I could never have started this project without them. Special thanks to my personal ML gurus: Clément Courbet, Julien Dubois, Mathias Kende, Daniel Kitachewsky, James Pack, Alexander Pak, Anosh Raj, Vitor Sessak, Wiktor Tomczak, Ingrid von Glehn, Rich Washington, and everyone at YouTube Paris. 
-I am incredibly grateful to all the amazing people who took time out of their busy lives to review my book in so much detail. Thanks to Pete Warden for answering all my TensorFlow questions, reviewing Part II, providing many interesting insights, and of course for being part of the core TensorFlow team. You should definitely check out his blog! Many thanks to Lukas Biewald for his very thorough review of Part II: he left no stone unturned, tested all the code (and caught a few errors), made many great suggestions, and his enthusiasm was contagious. You should check out his blog and his cool robots! Thanks to Justin Francis, who also reviewed Part II very thoroughly, catching errors and providing great insights, in particular in Chapter 16. Check out his posts on TensorFlow! 
-
-Huge thanks as to David Andrzejewski, who reviewed Part I and provided incredibly useful feedback, identifying unclear sections and suggesting how to improve them. Check out his website! Thanks to Grégoire Mesnil, who reviewed Part II and contributed very interesting practical advice on training neural networks. Thanks as to Eddy Hung, Salim Sémaoune, Karim Matrah, Ingrid von Glehn, Iain Smears, and Vincent Guilbeau for reviewing Part I and making many useful sug­gestions. And I also wish to thank my father-in-law, Michel Tessier, former mathe­matics teacher and now a great translator of Anton Chekhov, for helping me iron out some of the mathematics and notations in this book and reviewing the linear algebra Jupyter notebook. 
-And of course, a gigantic “thank you” to my dear brother Sylvain, who reviewed every single chapter, tested every line of code, provided feedback on virtually every section, and encouraged me from the first line to the last. Love you, bro! 
-Many thanks as to O’Reilly’s fantastic staff, in particular Nicole Tache, who gave me insightful feedback, always cheerful, encouraging, and helpful. Thanks as to Marie Beaugureau, Ben Lorica, Mike Loukides, and Laurel Ruma for believing in this project and helping me define its scope. Thanks to Matt Hacker and all of the Atlas team for answering all my technical questions regarding formatting, asciidoc, and LaTeX, and thanks to Rachel Monaghan, Nick Adams, and all of the production team for their final review and their hundreds of corrections. 
-Last but not least, I am infinitely grateful to my beloved wife, Emmanuelle, and to our three wonderful kids, Alexandre, Rémi, and Gabrielle, for encouraging me to work hard on this book, asking many questions (who said you can’t teach neural networks to a seven-year-old?), and even bringing me cookies and coffee. What more can one dream of? 
-
-PART I 
 
 
 The Fundamentals of Machine Learning 
@@ -2880,117 +2505,6 @@ the number of elements), and l8 gives the maximum absolute value in the vector.
 
 
 
-Check the Assumptions 
-Lastly, it is good practice to list and verify the assumptions that were made so far (by you or others); this can catch serious issues early on. For example, the district prices that your system outputs are going to be fed into a downstream Machine Learning system, and we assume that these prices are going to be used as such. But what if the downstream system actually converts the prices into categories (e.g., “cheap,” “medium,” or “expensive”) and then uses those categories instead of the prices them­selves? In this case, getting the price perfectly right is not important at all; your sys­tem just needs to get the category right. If that’s so, then the problem should have been framed as a classification task, not a regression task. You don’t want to find this out after working on a regression system for months. 
-Fortunately, after talking with the team in charge of the downstream system, you are confident that they do indeed need the actual prices, not just categories. Great! You’re all set, the lights are green, and you can start coding now! 
-
-
-Get the Data 
-It’s time to get your hands dirty. Don’t hesitate to pick up your laptop and walk through the following code examples in a Jupyter notebook. The full Jupyter note­book is available at https://github.com/ageron/handson-ml. 
-Create the Workspace 
-First you will need to have Python installed. It is probably already installed on your system. If not, you can get it at https://www.python.org/.7 
-Next you need to create a workspace directory for your Machine Learning code and datasets. Open a terminal and type the following commands (after the $ prompts): 
-$ export ML_PATH="$HOME/ml" # You can change the path if you prefer $ mkdir -p $ML_PATH 
-You will need a number of Python modules: Jupyter, NumPy, Pandas, Matplotlib, and Scikit-Learn. If you already have Jupyter running with all these modules installed, you can safely skip to “Download the Data” on page 43. If you don’t have them yet, there are many ways to install them (and their dependencies). You can use your sys­tem’s packaging system (e.g., apt-get on Ubuntu, or MacPorts or HomeBrew on 
-7 The latest version of Python 3 is recommended. Python 2.7+ should work fine too, but it is deprecated. 
-
-macOS), install a Scientific Python distribution such as Anaconda and use its packag­ing system, or just use Python’s own packaging system, pip, which is included by default with the Python binary installers (since Python 2.7.9).8 You can check to see if pip is installed by typing the following command: 
-$ pip3 --version pip 9.0.1 from [...]/lib/python3.5/site-packages (python 3.5) 
-You should make sure you have a recent version of pip installed, at the very least >1.4 to support binary module installation (a.k.a. wheels). To upgrade the pip module, type:9 
-$ pip3 install --upgrade pip Collecting pip [...] Successfully installed pip-9.0.1 
-Creating an Isolated Environment 
-If you would like to work in an isolated environment (which is strongly recom­mended so you can work on different projects without having conflicting library ver­sions), install virtualenv by running the following pip command: 
-$ pip3 install --user --upgrade virtualenv Collecting virtualenv [...] Successfully installed virtualenv 
-Now you can create an isolated Python environment by typing: 
-$ cd $ML_PATH $ virtualenv env Using base prefix '[...]' New python executable in [...]/ml/env/bin/python3.5 Also creating executable in [...]/ml/env/bin/python Installing setuptools, pip, wheel...done. 
-Now every time you want to activate this environment, just open a terminal and type: 
-$ cd $ML_PATH $ source env/bin/activate 
-While the environment is active, any package you install using pip will be installed in this isolated environment, and Python will only have access to these packages (if you also want access to the system’s site packages, you should create the environment 
-8 We will show the installation steps using pip in a bash shell on a Linux or macOS system. You may need to adapt these commands to your own system. On Windows, we recommend installing Anaconda instead. 
-9 You may need to have administrator rights to run this command; if so, try prefixing it with sudo. 
-
-using virtualenv’s --system-site-packages option). Check out virtualenv’s docu­
-mentation for more information. 
-Now you can install all the required modules and their dependencies using this sim­ple pip command: 
-$ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn 
-Collecting jupyter
- Downloading jupyter-1.0.0-py2.py3-none-any.whl 
-Collecting matplotlib
- [...] 
-To check your installation, try to import every module like this: 
-$ python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn" 
-There should be no output and no error. Now you can fire up Jupyter by typing: 
-$ jupyter notebook [I 15:24 NotebookApp] Serving notebooks from local directory: [...]/ml [I 15:24 NotebookApp] 0 active kernels [I 15:24 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/ [I 15:24 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation). 
-A Jupyter server is now running in your terminal, listening to port 8888. You can visit this server by opening your web browser to http://localhost:8888/ (this usually hap­pens automatically when the server starts). You should see your empty workspace directory (containing only the env directory if you followed the preceding virtualenv instructions). 
-Now create a new Python notebook by clicking on the New button and selecting the appropriate Python version10 (see Figure 2-3). 
-This does three things: first, it creates a new notebook file called Untitled.ipynb in your workspace; second, it starts a Jupyter Python kernel to run this notebook; and third, it opens this notebook in a new tab. You should start by renaming this note­book to “Housing” (this will automatically rename the file to Housing.ipynb) by click­ing Untitled and typing the new name. 
-10 Note that Jupyter can handle multiple versions of Python, and even many other languages such as R or Octave. 
-
-
-A notebook contains a list of cells. Each cell can contain executable code or formatted text. Right now the notebook contains only one empty code cell, labeled “In [1]:”. Try typing print("Hello world!") in the cell, and click on the play button (see Figure 2-4) or press Shift-Enter. This sends the current cell to this notebook’s Python kernel, which runs it and returns the output. The result is displayed below the cell, and since we reached the end of the notebook, a new cell is automatically created. Go through the User Interface Tour from Jupyter’s Help menu to learn the basics. 
-
-
-
-Download the Data 
-In typical environments your data would be available in a relational database (or some other common datastore) and spread across multiple tables/documents/files. To access it, you would first need to get your credentials and access authorizations,11 and familiarize yourself with the data schema. In this project, however, things are much simpler: you will just download a single compressed file, housing.tgz, which contains a comma-separated value (CSV) file called housing.csv with all the data. 
-
-You could use your web browser to download it, and run tar xzf housing.tgz to decompress the file and extract the CSV file, but it is preferable to create a small func­tion to do that. It is useful in particular if data changes regularly, as it allows you to write a small script that you can run whenever you need to fetch the latest data (or you can set up a scheduled job to do that automatically at regular intervals). Auto­mating the process of fetching the data is also useful if you need to install the dataset on multiple machines. 
-Here is the function to fetch the data:12 
-import os import tarfile from six.moves import urllib 
-DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml/master/" HOUSING_PATH = "datasets/housing" HOUSING_URL = DOWNLOAD_ROOT + HOUSING_PATH + "/housing.tgz" 
-def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH): if not os.path.isdir(housing_path): 
-os.makedirs(housing_path) tgz_path = os.path.join(housing_path, "housing.tgz") urllib.request.urlretrieve(housing_url, tgz_path) housing_tgz = tarfile.open(tgz_path) housing_tgz.extractall(path=housing_path) housing_tgz.close() 
-Now when you call fetch_housing_data(), it creates a datasets/housing directory in your workspace, downloads the housing.tgz file, and extracts the housing.csv from it in this directory. 
-Now let’s load the data using Pandas. Once again you should write a small function to load the data: 
-import pandas as pd 
-def load_housing_data(housing_path=HOUSING_PATH): csv_path = os.path.join(housing_path, "housing.csv") return pd.read_csv(csv_path) 
-11 You might also need to check legal constraints, such as private fields that should never be copied to unsafe datastores. 12 In a real project you would save this code in a Python file, but for now you can just write it in your Jupyter notebook. 
-
-
-
-Take a Quick Look at the Data Structure 
-Let’s take a look at the top five rows using the DataFrame’s head() method (see Figure 2-5). 
-
-Each row represents one district. There are 10 attributes (you can see the first 6 in the screenshot): longitude, latitude, housing_median_age, total_rooms, total_bed rooms, population, households, median_income, median_house_value, and ocean_proximity. 
-The info() method is useful to get a quick description of the data, in particular the total number of rows, and each attribute’s type and number of non-null values (see Figure 2-6). 
-
-
-There are 20,640 instances in the dataset, which means that it is fairly small by Machine Learning standards, but it’s perfect to get started. Notice that the total_bed rooms attribute has only 20,433 non-null values, meaning that 207 districts are miss­ing this feature. We will need to take care of this later. 
-All attributes are numerical, except the ocean_proximity field. Its type is object, so it could hold any kind of Python object, but since you loaded this data from a CSV file you know that it must be a text attribute. When you looked at the top five rows, you probably noticed that the values in that column were repetitive, which means that it is probably a categorical attribute. You can find out what categories exist and how many districts belong to each category by using the value_counts() method: 
->>> housing["ocean_proximity"].value_counts() 
-<1H OCEAN  9136  
-INLAND  6551  
-NEAR OCEAN  2658  
-NEAR BAY  2290  
-ISLAND  5  
-
-Name: ocean_proximity, dtype: int64 
-Let’s look at the other fields. The describe() method shows a summary of the numerical attributes (Figure 2-7). 
-
-The count, mean, min, and max rows are self-explanatory. Note that the null values are ignored (so, for example, count of total_bedrooms is 20,433, not 20,640). The std row shows the standard deviation (which measures how dispersed the values are). The 25%, 50%, and 75% rows show the corresponding percentiles: a percentile indi­cates the value below which a given percentage of observations in a group of observa­tions falls. For example, 25% of the districts have a housing_median_age lower than 18, while 50% are lower than 29 and 75% are lower than 37. These are often called the 25th percentile (or 1st quartile), the median, and the 75th percentile (or 3rd quartile). 
-
-Another quick way to get a feel of the type of data you are dealing with is to plot a histogram for each numerical attribute. A histogram shows the number of instances (on the vertical axis) that have a given value range (on the horizontal axis). You can either plot this one attribute at a time, or you can call the hist() method on the whole dataset, and it will plot a histogram for each numerical attribute (see Figure 2-8). For example, you can see that slightly over 800 districts have a median_house_value equal to about $500,000. 
-%matplotlib inline # only in a Jupyter notebook 
-import matplotlib.pyplot as plt 
-housing.hist(bins=50, figsize=(20,15)) plt.show() 
-
-
-so it uses Jupyter’s own backend. Plots are then rendered within the notebook itself. Note that calling show() is optional in a Jupyter notebook, as Jupyter will automatically display plots when a cell is executed. 
-Notice a few things in these histograms: 
-1. 
-First, the median income attribute does not look like it is expressed in US dollars (USD). After checking with the team that collected the data, you are told that the data has been scaled and capped at 15 (actually 15.0001) for higher median incomes, and at 0.5 (actually 0.4999) for lower median incomes. Working with preprocessed attributes is common in Machine Learning, and it is not necessarily a problem, but you should try to understand how the data was computed. 
-
-2. 
-The housing median age and the median house value were also capped. The lat­ter may be a serious problem since it is your target attribute (your labels). Your Machine Learning algorithms may learn that prices never go beyond that limit. You need to check with your client team (the team that will use your system’s out­put) to see if this is a problem or not. If they tell you that they need precise pre­dictions even beyond $500,000, then you have mainly two options: 
-
-
-a. 
-Collect proper labels for the districts whose labels were capped. 
-
-b. 
-Remove those districts from the training set (and also from the test set, since your system should not be evaluated poorly if it predicts values beyond $500,000). 
-
-
 3. 
 These attributes have very different scales. We will discuss this later in this chap­ter when we explore feature scaling. 
 
@@ -3379,8 +2893,8 @@ Let’s try one last model now: the RandomForestRegressor. As we will see in Cha
 ter 7, Random Forests work by training many Decision Trees on random subsets of the features, then averaging out their predictions. Building a model on top of many other models is called Ensemble Learning, and it is often a great way to push ML algo­rithms even further. We will skip most of the code since it is essentially the same as for the other models: 
 
 
->>> from sklearn.ensemble import RandomForestRegressor 
->>> forest_reg = RandomForestRegressor() 
+>>> from sklearn.ensemble import Random Forest Regressor 
+>>> forest_reg = Random Forest Regressor() 
 >>> forest_reg.fit(housing_prepared, housing_labels) 
 >>> [...] 
 >>> forest_rmse 
@@ -12293,5 +11807,583 @@ how do you do yo hey mate whazzup
 ok cool
 hows
 
+
+Anova
+AI
+ML
+
+Tag
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+sklearn
+sklearn
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Neural Networks
+Neural Networks
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+Linear regression
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+KNN
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+sklearn
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Neural Networks
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Feature selection
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Random forest
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Decision tree
+Feature selection
+Feature selection
+classification model
+classification model
+classification model
+classification model
+classification model
+classification model
+classification model
+classification model
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Supervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Unsupervised Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+Machine Learning
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+K-means Clustering
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+PCA
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Boosting
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Bagging
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+Inferential statistics
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+EDA
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+descriptive statistics
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+Logistic regression
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+visualization techniques
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+anova
+deep learning
+deep learning
+deep learning
+deep learning
+deep learning
+deep learning
+computer vision
+computer vision
+computer vision
+computer vision
+
+ML
+AI
 
 
