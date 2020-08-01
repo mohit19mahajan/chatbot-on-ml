@@ -159,9 +159,6 @@ unable to understand k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-ne
 unable to understand k nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 unable to understand k-nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 Which Python library is used,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-What library is primarily used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-Which is the best machine learning library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-What is ML library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is the library in Python?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What are standard libraries in Python?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 How do I get a list of Python libraries?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -189,7 +186,6 @@ libraries for scikit,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 where can i find sklearn libraries,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is a library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What are ml libraries?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-What library is primarily used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which library you have used for ML experiments?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which is the best library for machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is Python library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -283,7 +279,7 @@ Which type of regularization can help in feature selection,Link:https://en.wikip
 What is F score in feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 How does Xgboost calculate feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 What is permutation feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How to choose a Feature Selection Method for Machine Learning,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
+How to choose a Feature Selection Method,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 Sequential Feature Selection for classification,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 How does a random forest work,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 Is Random Forest supervised or unsupervised,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
@@ -404,10 +400,6 @@ unsupervised learning algorithms in data mining,Link:https://en.wikipedia.org/wi
 what are some unsupervised learning methods,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 unsupervised learning in data science,"K-means clustering, Hierarchical clustering, High-Dimension clustering, Dimension reduction - PCA etc.",Unsupervised Learning
 Mention a few unsupervised learning topics,"K-means clustering, Hierarchical clustering, High-Dimension clustering, Dimension reduction - PCA etc.",Unsupervised Learning
-Classic ML algorithms,"Supervised Learning, Unsupervised Learning, Ensemble Techniques, Featurization, Model Selection & Tuning",Machine Learning
-Machine learning curriculum,"Supervised Learning, Unsupervised Learning, Ensemble Techniques, Featurization, Model Selection & Tuning",Machine Learning
-machine learning in data science,"Supervised Learning, Unsupervised Learning, Ensemble Techniques, Featurization, Model Selection & Tuning",Machine Learning
-Mention a few machine learning topics,"Supervised Learning, Unsupervised Learning, Ensemble Techniques, Featurization, Model Selection & Tuning",Machine Learning
 What is meant by K means clustering algorithm,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
 How do you calculate K means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
 Why K means clustering is used,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
@@ -569,4 +561,12 @@ How machine learning is done,Link:https://en.wikipedia.org/wiki/Machine_learning
 What is ml,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
 Explain ml to me,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
 How ml is performed,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+Which is the best machine learning library?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+What is ML library?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+Classic ML algorithms,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+Machine learning curriculum,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+machine learning in data science,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
+Mention a few machine learning topics,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
 What are computer vision problems?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision\
