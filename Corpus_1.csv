@@ -12,7 +12,7 @@ Please provide knn example,Link:https://en.wikipedia.org/wiki/K-nearest_neighbor
 How to apply knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 What do you mean by knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 what are some libraries used in machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-Which library should i use to build machine learning models,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+Which library should i use to build models,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 what are neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 how to use neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 please explain neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
@@ -21,7 +21,7 @@ what are different kind of neural networks,Link:https://en.wikipedia.org/wiki/Ne
 how to do prediction with neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 how to select features,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 how to do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how can i choose features for machine learning,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
+how can i choose features,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 choosing features for logistic regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 how to do feature selection in classification,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
 how to select features for naivebayes,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
@@ -118,7 +118,7 @@ can you help me,Hello! how can I help you ?,hello
 what's your name,Hello! how can I help you ?,hello
 knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 k-nearest neighbors algorithm,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What is Knn in machine learning?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
+What is Knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 What does K mean in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 Why is Knn used?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 How does KNN algorithm work?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
@@ -158,7 +158,7 @@ unable to understand k-nearest neighbors,Link:https://en.wikipedia.org/wiki/K-ne
 unable to understand k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 unable to understand k nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
 unable to understand k-nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Which Python library is used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+Which Python library is used,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What library is primarily used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which is the best machine learning library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is ML library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -172,7 +172,7 @@ How many libraries are in Python?,Link: https://en.wikipedia.org/wiki/Scikit-lea
 Is JSON a standard Python library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What are pandas in Python?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 python libraries for data science,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-python libraries for machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+python libraries for machine,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 python libraries download,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 python modules,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 python packages list,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -187,11 +187,11 @@ scikit-learn library,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 skikit-learn library,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 libraries for scikit,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 where can i find sklearn libraries,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-What is a machine learning library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+What is a library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What are ml libraries?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What library is primarily used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which library you have used for ML experiments?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-Which is the best machine learning library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+Which is the best library for machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is Python library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which Python libraries should I learn?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is Python library explain with example?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -201,7 +201,7 @@ Is Sklearn and Scikit learn same?,Link: https://en.wikipedia.org/wiki/Scikit-lea
 How do you use Sklearn?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 types of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 neural networks tutorial,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 neural networks journal,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 neural networks applications,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 neural networks and deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
@@ -225,7 +225,7 @@ Is neural network used for deep learning,Link:https://en.wikipedia.org/wiki/Neur
 learn neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 dont understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 don't understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural network machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
+neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 what is the scope of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 how to make a mathematical model in neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
 how normal computer is different from neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
@@ -314,7 +314,7 @@ Is Random Forest a linear classifier,Link:https://en.wikipedia.org/wiki/Random_f
 What is the difference between gradient boosting and Random Forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 What is Max features in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 What are the assumptions in a random forest model,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is Random Forest algorithm in machine learning,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
+What is Random Forest algorithm,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 What is node in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 Limitation of random forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
@@ -337,7 +337,7 @@ How OOB error is calculated in random forest,Link:https://en.wikipedia.org/wiki/
 Does random forest need one hot encoding,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 How do you check variable importance in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
 What is tree depth in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is decision tree in machine learning,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
+What is decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
 decision tree tutorial,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
 decision tree sklearn,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
 decision tree examples with solution,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
@@ -398,7 +398,7 @@ Mention a few supervised learning topics,Link:https://en.wikipedia.org/wiki/Supe
 Name a few unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 types of unsupervised learning models,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 unsupervised learning in python,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning in machine learning,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
+unsupervised learning,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 unsupervised learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
 what are some unsupervised learning methods,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
@@ -441,7 +441,7 @@ What are PCA loadings,Link: https://en.wikipedia.org/wiki/Principal_component_an
 Can PCA be used for prediction,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
 How does PCA reduce features,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
 How does boosting work machine learning,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is bagging and boosting in machine learning,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
+What is bagging and boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
 Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
 What is a weak learner,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
 Is CatBoost better than XGBoost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
@@ -459,7 +459,7 @@ Is boosting an ensemble,Link: https://en.wikipedia.org/wiki/Boosting_(machine_le
 What is Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
 Does boosting use bootstrap,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
 What is CatBoost algorithm,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-bagging machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
+bagging technique,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 What is a bagging classifier,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 What is the purpose of bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 Is bootstrapping the same as bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
@@ -473,8 +473,8 @@ What is full form of term bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_
 Can bagging Overfit,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 Why does bagging decrease variance,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 What is the difference between bagging and random forest,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is bias in machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Is the bagging technique uses the row and column sampling in Ensemble machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
+What is bootstrap aggregation,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
+Is the bagging technique uses the row and column sampling in Ensemble,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
 Statistical inference,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
 What is inferential statistics used for,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
 What is the difference between descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
@@ -494,7 +494,7 @@ Which research method fits inferential statistics,Link: https://en.wikipedia.org
 When should you use descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
 Explain EDA ?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
 What is Exploratory Data Analysis?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-Why EDA is necessary for Machine Learning?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
+Why EDA is necessary,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
 exploratory data analysis example,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
 How do you do exploratory data analysis in Python?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
 exploratory data analysis python course,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
@@ -532,7 +532,7 @@ logistic regression tutorial,Link:https://en.wikipedia.org/wiki/Logistic_regress
 machine learning visualization python,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 I want to know more about data visualization techniques,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 visualization techniques in data mining,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
-What are the best visualization techniques for machine learning,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
+What are the best visualization techniques,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 I want to understand data visualization,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 become expert in data visualization,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 How can I improve my visualization skills?,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
@@ -559,7 +559,7 @@ What is deep learning vs Machine Learning?,Link:https://en.wikipedia.org/wiki/De
 Why is it called deep learning?,Link:https://en.wikipedia.org/wiki/Deep_learning,deep learning
 Please explain deep learning,Link:https://en.wikipedia.org/wiki/Deep_learning,deep learning
 How do we do deep learning?,Link:https://en.wikipedia.org/wiki/Deep_learning,deep learning
-Is computer vision machine learning?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
+what is computer vision,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
 What is computer vision example?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
 What is image processing and computer vision?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
 What is machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
