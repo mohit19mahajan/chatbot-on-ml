@@ -1,91 +1,91 @@
 Question,Response,Tag
-What is linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Can you explain linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Please provide linear regression example,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How to apply linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What do you mean by linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Unable to understand linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-knn formula,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What is knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Can you explain knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Please provide knn example,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How to apply knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What do you mean by knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
+What is linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Can you explain linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Please provide linear regression example,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How to apply linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What do you mean by linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Unable to understand linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+knn formula,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What is knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Can you explain knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Please provide knn example,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How to apply knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What do you mean by knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
 what are some libraries used in machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Which library should i use to build models,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-what are neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to use neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-please explain neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-using neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-what are different kind of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to do prediction with neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to select features,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how to do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how can i choose features,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-choosing features for logistic regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how to do feature selection in classification,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how to select features for naivebayes,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how to build random forest model for classification,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-did not get random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-do not understand random forest algorithm,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-please explain ensemble random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-want to know about random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What are decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Explain decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Can you explain decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Please provide example of decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How a decision tree works,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Expain recurrent neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What is LSTM?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What is linear regression in simple terms?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How do you calculate linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How does a linear regression work?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What is linear regression used for?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What are some examples of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How do you explain linear regression to a child?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Why is it called linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Is multiple regression linear?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What is A and B in linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Is linear regression always a straight line?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What does multiple linear regression tell you?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How do you interpret linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What are the four assumptions of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Why do we use multiple regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Which data is most suitable for linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What are types of regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-What does R Squared mean?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-How do you calculate regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression example,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression algorithm,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-logistic regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression for dummies,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression equation,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-regression analysis,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-sklearn linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression is a linear approach to modeling,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression establishes relationship between a scalar response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-one explanatory variable is called simple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-more than one explanatory variable is called multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-multivariate linear regression deals with prediction of multiple correlated dependent variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression focuses on the conditional probability distribution of the response given the values of the predictors,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-"Linear regression can be used when goal is prediction, forecasting, or error reduction",Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Linear regression analysis can be applied to quantify the strength of the relationship between response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Linear regression models are often fitted using the least squares approach,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-"linear regression minimizes the ""lack of fit""",Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-linear regression minimizes a penalized version of the least squares cost function as in ridge regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-assumptions made by standard linear regression models with standard estimation techniques,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-ordinary least squares,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-OLS,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Weak exogeneity,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Linearity,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-homoscedasticity in linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Simple and multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-General linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-generalized least squares linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Hierarchical linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
-Least-squares estimation,Link:https://en.wikipedia.org/wiki/Linear_regression,Linear regression
+what are neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to use neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+please explain neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+using neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+what are different kind of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to do prediction with neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to select features,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how to do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how can i choose features,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+choosing features for logistic regression,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how to do feature selection in classification,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how to select features for naivebayes,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how to build random forest model for classification,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+did not get random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+do not understand random forest algorithm,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+please explain ensemble random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+want to know about random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What are decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Explain decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Can you explain decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Please provide example of decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How a decision tree works,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Expain recurrent neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What is LSTM?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What is linear regression in simple terms?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How do you calculate linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How does a linear regression work?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What is linear regression used for?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What are some examples of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How do you explain linear regression to a child?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Why is it called linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Is multiple regression linear?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What is A and B in linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Is linear regression always a straight line?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What does multiple linear regression tell you?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How do you interpret linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What are the four assumptions of linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Why do we use multiple regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Which data is most suitable for linear regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What are types of regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+What does R Squared mean?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+How do you calculate regression?,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression example,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression algorithm,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+logistic regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression for dummies,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression equation,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+regression analysis,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+sklearn linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression is a linear approach to modeling,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression establishes relationship between a scalar response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+one explanatory variable is called simple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+more than one explanatory variable is called multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+multivariate linear regression deals with prediction of multiple correlated dependent variables,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression focuses on the conditional probability distribution of the response given the values of the predictors,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+"Linear regression can be used when goal is prediction, forecasting, or error reduction",Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Linear regression analysis can be applied to quantify the strength of the relationship between response and explanatory variables,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Linear regression models are often fitted using the least squares approach,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+"linear regression minimizes the ""lack of fit""",Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+linear regression minimizes a penalized version of the least squares cost function as in ridge regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+assumptions made by standard linear regression models with standard estimation techniques,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+ordinary least squares,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+OLS,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Weak exogeneity,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Linearity,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+homoscedasticity in linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Simple and multiple linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+General linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+generalized least squares linear regression,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Hierarchical linear models,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
+Least-squares estimation,Link:https://en.wikipedia.org/wiki/Linear_regression,linear regression
 Hey,Hello! how can I help you ?,hello
 Hi,Hello! how can I help you ?,hello
 How are you?,Hello! how can I help you ?,hello
@@ -116,48 +116,48 @@ how can you help me,Hello! how can I help you ?,hello
 I have a question,Hello! how can I help you ?,hello
 can you help me,Hello! how can I help you ?,hello
 what's your name,Hello! how can I help you ?,hello
-knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-k-nearest neighbors algorithm,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What is Knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What does K mean in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Why is Knn used?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How does KNN algorithm work?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How is Knn calculated?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How do you predict using Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What are some applications of KNN?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Does Knn require training?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Is Knn used for regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How do I stop Overfitting in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How do I tune my Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How does Knn work in regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How do you select the value of k in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Why KNN is called lazy learner?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-How is KNN algorithm implemented?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What is KNN algorithm example?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-What is Knn in Python?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Is KNN clustering?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Why Euclidean distance is used in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Is Knn better than logistic regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-Why KNN is non parametric?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-k nearest neighbors algorithm,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-k nearest neighbor,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn sklearn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn wiki,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn example,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn python,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn algorithm tutorial,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn clustering,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn supervised or unsupervised,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn classification,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-knn algorithm in data mining,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-how knn works,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-I am unable to understand concept of knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-unable to understand concept of knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-unable to understand k-nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-unable to understand k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-unable to understand k nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
-unable to understand k-nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,KNN
+knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+k-nearest neighbors algorithm,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What is Knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What does K mean in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Why is Knn used?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How does KNN algorithm work?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How is Knn calculated?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How do you predict using Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What are some applications of KNN?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Does Knn require training?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Is Knn used for regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How do I stop Overfitting in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How do I tune my Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How does Knn work in regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How do you select the value of k in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Why KNN is called lazy learner?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+How is KNN algorithm implemented?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What is KNN algorithm example?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+What is Knn in Python?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Is KNN clustering?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Why Euclidean distance is used in Knn?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Is Knn better than logistic regression?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Why KNN is non parametric?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+k nearest neighbors algorithm,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+k nearest neighbor,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn sklearn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn wiki,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn example,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn python,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn algorithm tutorial,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn clustering,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn supervised or unsupervised,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn classification,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+knn algorithm in data mining,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+how knn works,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+I am unable to understand concept of knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+unable to understand concept of knn,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+unable to understand k-nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+unable to understand k nearest neighbors,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+unable to understand k nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+unable to understand k-nearest neighbours,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
 Which Python library is used,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What is the library in Python?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 What are standard libraries in Python?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
@@ -195,187 +195,187 @@ What is Sklearn library in Python?,Link: https://en.wikipedia.org/wiki/Scikit-le
 What does Sklearn stand for?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 Is Sklearn and Scikit learn same?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
 How do you use Sklearn?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
-types of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks tutorial,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks journal,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks applications,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks and deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-artificial neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What are neural networks used for?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-How do neural networks work?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What are the types of neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What is neural network in artificial intelligence?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Why are neural networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What problems can neural networks solve?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Why are networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Why are neural networks important?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Who invented neural network?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Why use deep neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Is neural networks deep learning?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-How do I start learning neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-How can I learn neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-What is neural network in simple words?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Who invented neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Is neural network used for deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-learn neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-dont understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-don't understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-what is the scope of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to make a mathematical model in neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how normal computer is different from neural network,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how neural network is used for classification,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-what is delta error in neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-what is recurrent neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to prepare data for neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to make neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to learn neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to train neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-how to build a neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural network is a network or circuit of neurons,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-composed of artificial neurons or nodes,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-biological neural network is composed of a groups of chemically connected or functionally associated neuron,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural networks are information processing paradigms inspired by the way biological neural systems process data,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Artificial intelligence and cognitive modeling try to simulate some properties of biological neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-"artificial neural networks have been applied successfully to speech recognition, image analysis and adaptive control",Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-origins of neural networks are based on efforts to model information processing in biological systems,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-neural network computing does not separate memory and processing,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-McCulloch and Pitts[8] (1943) created a computational model for neural networks based on mathematics and algorithms,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-called this model threshold logic,Link:https://en.wikipedia.org/wiki/Neural_network,Neural Networks
-Why do we do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is wrapper method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is feature selection in ML,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How do you select best features in regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is meant by feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How do you do feature selection in linear regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is feature selection in data mining,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is univariate feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How do you use feature selection for classification,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Can decision tree be used for feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is correlation based feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is feature selection and feature extraction,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How feature importance is calculated,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is permutation feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is sequential forward selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is filter method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is filter method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection techniques,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection for regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection logistic regression,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection using random forest,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection sklearn,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection algorithm,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Feature selection methods,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Is PCA a feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is a feature matrix,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is the best feature selection method,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Is feature selection necessary,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How do you apply feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How does Lasso do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Does random forest need feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is feature selection in data mining,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Which type of regularization can help in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is F score in feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How does Xgboost calculate feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-What is permutation feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How to choose a Feature Selection Method,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-Sequential Feature Selection for classification,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-How does a random forest work,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest supervised or unsupervised,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is difference between decision tree and random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you do random forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Can random forest be used for classification,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you stop Overfitting in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Where is random forest used,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How to use random forest in python,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Do we need to normalize data for random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How to tune random forest in python,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is random in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Random Forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you describe random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is random forest deep learning,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Why is random forest random,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is random forest good for,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Where is random forest used,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is random forest better than SVM,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is XGBoost better than random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is random forest good for,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How does random forest handle Overfitting,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest Parametric,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Why is random forest better than decision tree,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is random forest a black box model,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest a linear classifier,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is the difference between gradient boosting and Random Forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is Max features in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What are the assumptions in a random forest model,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is Random Forest algorithm,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is node in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Limitation of random forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you improve random forest accuracy,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-explain random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is a Random Forest model,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do I set parameters in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you do random forest regression in R,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Does random forest need feature selection,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How can I speed up random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Does Random Forest reduce bias,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How can I speed up random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How does random forest calculate probability,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How many trees are in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Does random forest need cross validation,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is MTRY in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How OOB error is calculated in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-Does random forest need one hot encoding,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-How do you check variable importance in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is tree depth in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,Random forest
-What is decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree tutorial,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree sklearn,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree examples with solution,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree classification,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree analysis,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree algorithm,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What are decision trees used for,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Who invented decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How many nodes are in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is decision tree and its importance,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What are the disadvantages of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How are decision trees trained,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Does decision tree given probability,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is the difference between decision tree and random forest,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is a pure node in decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What are the types of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What do you mean by decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What are the different types of decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is the final objective of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Is decision tree supervised learning,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you choose the depth of a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you find the probability in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is decision tree in data mining,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is decision table with example,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is Overfitting decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you analyze a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Which node has maximum entropy in decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How can we avoid overfitting in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you simplify a decision table,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Why do decision trees use Entropy,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Does Multicollinearity affect decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree tutorial,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you use a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you create a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Gini index,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How does the Decision Tree algorithm work,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-Decision Tree Classifier Building in Scikit-learn,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-decision tree python code example,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-How do you code a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-What is a decision tree model,Link:https://en.wikipedia.org/wiki/Decision_tree,Decision tree
-variable selection,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
-how to select right variables,Link:https://en.wikipedia.org/wiki/Feature_selection,Feature selection
+types of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks tutorial,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks journal,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks applications,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks and deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+artificial neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What are neural networks used for?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+How do neural networks work?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What are the types of neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What is neural network in artificial intelligence?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Why are neural networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What problems can neural networks solve?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Why are networks so powerful?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Why are neural networks important?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Who invented neural network?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Why use deep neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Is neural networks deep learning?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+How do I start learning neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+How can I learn neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+What is neural network in simple words?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Who invented neural networks?,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Is neural network used for deep learning,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+learn neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+dont understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+don't understand neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+what is the scope of neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to make a mathematical model in neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how normal computer is different from neural network,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how neural network is used for classification,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+what is delta error in neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+what is recurrent neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to prepare data for neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to make neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to learn neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to train neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+how to build a neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural network is a network or circuit of neurons,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+composed of artificial neurons or nodes,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+biological neural network is composed of a groups of chemically connected or functionally associated neuron,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural networks are information processing paradigms inspired by the way biological neural systems process data,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Artificial intelligence and cognitive modeling try to simulate some properties of biological neural networks,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+"artificial neural networks have been applied successfully to speech recognition, image analysis and adaptive control",Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+origins of neural networks are based on efforts to model information processing in biological systems,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural network computing does not separate memory and processing,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+McCulloch and Pitts[8] (1943) created a computational model for neural networks based on mathematics and algorithms,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+called this model threshold logic,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+Why do we do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is wrapper method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is feature selection in ML,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How do you select best features in regression,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is meant by feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How do you do feature selection in linear regression,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is feature selection in data mining,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is univariate feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How do you use feature selection for classification,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Can decision tree be used for feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is correlation based feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is feature selection and feature extraction,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How feature importance is calculated,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is permutation feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is sequential forward selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is filter method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is filter method in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection techniques,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection for regression,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection logistic regression,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection using random forest,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection sklearn,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection algorithm,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Feature selection methods,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Is PCA a feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is a feature matrix,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is the best feature selection method,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Is feature selection necessary,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How do you apply feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How does Lasso do feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Does random forest need feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is feature selection in data mining,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Which type of regularization can help in feature selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is F score in feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How does Xgboost calculate feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is permutation feature importance,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How to choose a Feature Selection Method,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+Sequential Feature Selection for classification,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+How does a random forest work,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest supervised or unsupervised,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is difference between decision tree and random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you do random forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Can random forest be used for classification,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you stop Overfitting in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Where is random forest used,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How to use random forest in python,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Do we need to normalize data for random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How to tune random forest in python,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is random in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Random Forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you describe random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is random forest deep learning,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Why is random forest random,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is random forest good for,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Where is random forest used,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is random forest better than SVM,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is XGBoost better than random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is random forest good for,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How does random forest handle Overfitting,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest Parametric,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Why is random forest better than decision tree,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is random forest a black box model,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest a linear classifier,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is the difference between gradient boosting and Random Forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is Max features in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What are the assumptions in a random forest model,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is Random Forest algorithm,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is node in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Limitation of random forest regression,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you improve random forest accuracy,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Is Random Forest linear or nonlinear,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+explain random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is a Random Forest model,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do I set parameters in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you do random forest regression in R,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Does random forest need feature selection,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How can I speed up random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Does Random Forest reduce bias,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How can I speed up random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How does random forest calculate probability,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How many trees are in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Does random forest need cross validation,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is MTRY in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How OOB error is calculated in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+Does random forest need one hot encoding,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+How do you check variable importance in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is tree depth in random forest,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree tutorial,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree sklearn,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree examples with solution,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree classification,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree analysis,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree algorithm,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What are decision trees used for,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Who invented decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How many nodes are in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is decision tree and its importance,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What are the disadvantages of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How are decision trees trained,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Does decision tree given probability,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is the difference between decision tree and random forest,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is a pure node in decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What are the types of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What do you mean by decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What are the different types of decision trees,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is the final objective of decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Is decision tree supervised learning,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you choose the depth of a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you find the probability in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is decision tree in data mining,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is decision table with example,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is Overfitting decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you analyze a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Which node has maximum entropy in decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How can we avoid overfitting in a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you simplify a decision table,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Why do decision trees use Entropy,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Does Multicollinearity affect decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree tutorial,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you use a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you create a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Gini index,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How does the Decision Tree algorithm work,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+Decision Tree Classifier Building in Scikit-learn,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+decision tree python code example,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+How do you code a decision tree,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+What is a decision tree model,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+variable selection,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+how to select right variables,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
 types of classification,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
 classification models in python,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
 classification algorithms,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
@@ -383,120 +383,120 @@ classification algorithms in data mining,Link:https://en.wikipedia.org/wiki/Cate
 what are some classification models,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
 classification in data science,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
 Mention a few classification models,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
-Name a few supervised learning algorithms,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-types of supervised learning models,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-supervised learning in python,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-supervised learning algorithms,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-supervised learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-what are some supervised learning methods,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-supervised learning in data science,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-Mention a few supervised learning topics,Link:https://en.wikipedia.org/wiki/Supervised_learning,Supervised Learning
-Name a few unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-types of unsupervised learning models,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning in python,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-what are some unsupervised learning methods,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,Unsupervised Learning
-unsupervised learning in data science,"K-means clustering, Hierarchical clustering, High-Dimension clustering, Dimension reduction - PCA etc.",Unsupervised Learning
-Mention a few unsupervised learning topics,"K-means clustering, Hierarchical clustering, High-Dimension clustering, Dimension reduction - PCA etc.",Unsupervised Learning
-What is meant by K means clustering algorithm,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-How do you calculate K means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Why K means clustering is used,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-What kind of clusters that K means clustering algorithm produce,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Where is K means clustering used,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-What is K means algorithm with example,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Where is clustering used,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-What is elbow method in K means,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-How do you use the elbow method,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Can we get different results for different runs of K means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-How K means cluster in Python,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Explain K-means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-k-means clustering simple explanation,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Data clustering algorithm,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-How K-means algorithm work,Link:https://en.wikipedia.org/wiki/K-means_clustering,K-means Clustering
-Principal component analysis clustering,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-What is the difference between PCA and cluster analysis,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-What is PCA used for,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Why is PCA in unsupervised technique,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-How do you do a PCA analysis,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Is PCA a cluster,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Is PCA a classifier,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-How is PCA calculated,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-What is PCA method,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Does PCA improve accuracy,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Is PCA supervised,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-What are PCA components,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-How do I choose a PCA component,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Should you do PCA before clustering,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-What are PCA loadings,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-Can PCA be used for prediction,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-How does PCA reduce features,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,PCA
-How does boosting work machine learning,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is bagging and boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is a weak learner,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Is CatBoost better than XGBoost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is boosting in ML,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is the main objective of boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Can boosting Overfit,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Why is boosting better than bagging,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Why is XGBoost faster than GBM,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Can XGBoost take categorical features in input,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Is Random Forest a boosting algorithm,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Does boosting reduce variance,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Why do we want to use weak learners when boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-How do I fix Overfitting problems,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Is boosting an ensemble,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-Does boosting use bootstrap,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-What is CatBoost algorithm,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),Boosting
-bagging technique,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is a bagging classifier,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is the purpose of bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Is bootstrapping the same as bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is a bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is bagging technique in ML,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-How does bagging reduce Overfitting,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Is Boosting better than bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Is Random Forest bagging or boosting,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is bagging in decision tree,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is full form of term bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Can bagging Overfit,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Why does bagging decrease variance,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is the difference between bagging and random forest,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-What is bootstrap aggregation,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Is the bagging technique uses the row and column sampling in Ensemble,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,Bagging
-Statistical inference,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What is inferential statistics used for,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What is the difference between descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What are inferential statistical tests,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What are examples of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Is inferential statistics qualitative or quantitative,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Is Chi square inferential,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-How do you write inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-How do you know which inferential test to use,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Is the t test inferential or descriptive statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What is the main type of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What comes under inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Is Anova an inferential statistic,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What are the advantages of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-What are the two types of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Which research method fits inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-When should you use descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,Inferential statistics
-Explain EDA ?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-What is Exploratory Data Analysis?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-Why EDA is necessary,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-exploratory data analysis example,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-How do you do exploratory data analysis in Python?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-exploratory data analysis python course,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-python exploratory data analysis package,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-exploratory data analysis python github,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-What does EDA stand for in data science?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-why do we do EDA?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-what is the importance of eda,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-Exploratory Data Analysis importance?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
-why is EDA important.,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,EDA
+Name a few supervised learning algorithms,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+types of supervised learning models,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+supervised learning in python,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+supervised learning algorithms,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+supervised learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+what are some supervised learning methods,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+supervised learning in data science,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+Mention a few supervised learning topics,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+Name a few unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+types of unsupervised learning models,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+unsupervised learning in python,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+unsupervised learning,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+unsupervised learning algorithms,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+unsupervised learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+what are some unsupervised learning methods,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+unsupervised learning in data science,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+Mention a few unsupervised learning topics,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+What is meant by K means clustering algorithm,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+How do you calculate K means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Why K means clustering is used,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+What kind of clusters that K means clustering algorithm produce,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Where is K means clustering used,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+What is K means algorithm with example,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Where is clustering used,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+What is elbow method in K means,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+How do you use the elbow method,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Can we get different results for different runs of K means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+How K means cluster in Python,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Explain K-means clustering,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+k-means clustering simple explanation,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Data clustering algorithm,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+How K-means algorithm work,Link:https://en.wikipedia.org/wiki/K-means_clustering,k-means clustering
+Principal component analysis clustering,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+What is the difference between PCA and cluster analysis,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+What is PCA used for,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Why is PCA in unsupervised technique,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+How do you do a PCA analysis,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Is PCA a cluster,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Is PCA a classifier,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+How is PCA calculated,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+What is PCA method,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Does PCA improve accuracy,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Is PCA supervised,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+What are PCA components,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+How do I choose a PCA component,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Should you do PCA before clustering,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+What are PCA loadings,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+Can PCA be used for prediction,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+How does PCA reduce features,Link: https://en.wikipedia.org/wiki/Principal_component_analysis,pca
+How does boosting work machine learning,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is bagging and boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is a weak learner,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Is CatBoost better than XGBoost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is boosting in ML,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is the main objective of boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Can boosting Overfit,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Why is boosting better than bagging,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Why is XGBoost faster than GBM,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Can XGBoost take categorical features in input,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Is Random Forest a boosting algorithm,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Does boosting reduce variance,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Why do we want to use weak learners when boosting,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+How do I fix Overfitting problems,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Is boosting an ensemble,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is Adaboost,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+Does boosting use bootstrap,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+What is CatBoost algorithm,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+bagging technique,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is a bagging classifier,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is the purpose of bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Is bootstrapping the same as bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is a bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is bagging technique in ML,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+How does bagging reduce Overfitting,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Is Boosting better than bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Is Random Forest bagging or boosting,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is bagging in decision tree,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is full form of term bagging,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Can bagging Overfit,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Why does bagging decrease variance,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is the difference between bagging and random forest,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is bootstrap aggregation,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Is the bagging technique uses the row and column sampling in Ensemble,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Statistical inference,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What is inferential statistics used for,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What is the difference between descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What are inferential statistical tests,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What are examples of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Is inferential statistics qualitative or quantitative,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Is Chi square inferential,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+How do you write inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+How do you know which inferential test to use,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Is the t test inferential or descriptive statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What is the main type of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What comes under inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Is Anova an inferential statistic,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What are the advantages of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+What are the two types of inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Which research method fits inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+When should you use descriptive and inferential statistics,Link: https://en.wikipedia.org/wiki/Statistical_inference,inferential statistics
+Explain EDA ?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+What is Exploratory Data Analysis?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+Why EDA is necessary,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+exploratory data analysis example,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+How do you do exploratory data analysis in Python?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+exploratory data analysis python course,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+python exploratory data analysis package,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+exploratory data analysis python github,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+What does EDA stand for in data science?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+why do we do EDA?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+what is the importance of eda,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+Exploratory Data Analysis importance?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+why is EDA important.,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
 Explain descriptive statistics?,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
 What is meant by descriptive statistics?,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
 What are some examples of descriptive statistics?,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
@@ -509,18 +509,18 @@ what is the importance of descriptive statistics,Link:https://en.wikipedia.org/w
 descriptive statistics pdf,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
 different approached for descriptive statistics,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
 give me an introduction to descriptive statistics,Link:https://en.wikipedia.org/wiki/Descriptive_statistics,descriptive statistics
-what is logistic regression,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Why is logistic regression so popular?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-What are the types of logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Why logistic regression is better than linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-What is logistic regression and how does it work?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Can logistic regression be non linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-What are the assumptions for using a logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Is logistic regression GLM?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Why is logistic regression better?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-Why is logistic regression linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-When should you use logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
-logistic regression tutorial,Link:https://en.wikipedia.org/wiki/Logistic_regression,Logistic regression
+what is logistic regression,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Why is logistic regression so popular?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+What are the types of logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Why logistic regression is better than linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+What is logistic regression and how does it work?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Can logistic regression be non linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+What are the assumptions for using a logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Is logistic regression GLM?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Why is logistic regression better?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+Why is logistic regression linear?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+When should you use logistic regression?,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
+logistic regression tutorial,Link:https://en.wikipedia.org/wiki/Logistic_regression,logistic regression
 machine learning visualization python,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 I want to know more about data visualization techniques,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
 visualization techniques in data mining,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
@@ -554,19 +554,50 @@ How do we do deep learning?,Link:https://en.wikipedia.org/wiki/Deep_learning,dee
 what is computer vision,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
 What is computer vision example?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
 What is image processing and computer vision?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
-What is machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Please explain machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What are types of machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-How machine learning is done,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What is ml,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Explain ml to me,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-How ml is performed,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Which is the best machine learning library?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What is ML library?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Classic ML algorithms,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Machine learning curriculum,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-machine learning in data science,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-Mention a few machine learning topics,Link:https://en.wikipedia.org/wiki/Machine_learning,Machine learning
-What are computer vision problems?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision\
+What is machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Please explain machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What are types of machine learning,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+How machine learning is done,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is ml,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Explain ml to me,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+How ml is performed,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Which is the best machine learning library?,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is ML library?,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What library is primarily used for machine learning?,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Classic ML algorithms,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Machine learning curriculum,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+machine learning in data science,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Mention a few machine learning topics,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What are computer vision problems?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision
+Which library should i use to build machine learning models,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+how can i choose features for machine learning,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is Knn in machine learning?,Link:https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm,knn
+Which Python library is used for machine learning?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+python libraries for machine learning,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+What is a machine learning library?,Link: https://en.wikipedia.org/wiki/Scikit-learn,sklearn
+neural networks machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+neural network machine learning,Link:https://en.wikipedia.org/wiki/Neural_network,neural networks
+How to choose a Feature Selection Method for Machine Learning,Link:https://en.wikipedia.org/wiki/Feature_selection,feature selection
+What is Random Forest algorithm in machine learning,Link:https://en.wikipedia.org/wiki/Random_forest,random forest
+What is decision tree in machine learning,Link:https://en.wikipedia.org/wiki/Decision_tree,decision tree
+classification in machine learning,Link:https://en.wikipedia.org/wiki/Category:Classification_algorithms,classification model
+supervised learning in machine learning,Link:https://en.wikipedia.org/wiki/Supervised_learning,supervised learning
+unsupervised learning in machine learning,Link:https://en.wikipedia.org/wiki/Unsupervised_learning,unsupervised learning
+Name a few topics on Machine Learning,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Machine learning techniques,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Machine learning in python,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is AI & ML,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Fundamentals of AI,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+Fundamentals of ML,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is the different techniques in AI and ML,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is the curriculum for ML,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+machine learning algorithms in data mining,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+what are some machine learning methods,Link:https://en.wikipedia.org/wiki/Machine_learning,machine learning
+What is bagging and boosting in machine learning,Link: https://en.wikipedia.org/wiki/Boosting_(machine_learning),boosting
+bagging machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+What is bias in machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Is the bagging technique uses the row and column sampling in Ensemble machine learning,Link: https://en.wikipedia.org/wiki/Bootstrap_aggregating,bagging
+Why EDA is necessary for Machine Learning?,Link:https://en.wikipedia.org/wiki/Exploratory_data_analysis,eda
+What are the best visualization techniques for machine learning,Link:https://en.wikipedia.org/wiki/Visualization,visualization techniques
+Is computer vision machine learning?,Link:https://en.wikipedia.org/wiki/Computer_vision,computer vision

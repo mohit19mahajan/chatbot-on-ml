@@ -1,34 +1,34 @@
 Question,Tags
-linear regression sklearn,Linear regression
-linear regression tutorial in depth,Linear regression
-when to use linear regression and logistic regression?,Linear regression
-How to increase accuracy of linear regression,Linear regression
-Can you list out the critical assumptions of linear regression?,Linear regression
-Linear regression examples,Linear regression
-what are the different types of linear regression,Linear regression
-Explain simple linear regression,Linear regression
-How to do multi linear regression,Linear regression
-Linear regression wiki,Linear regression
-I don’t understand KNN,KNN
-Can you show me the project which will be done on K Nearest Neighbours Algorithm?,KNN
-What is KNN regression?,KNN
-Can K-Nearest neighbours do classification task? Can you show me an example.,KNN
-What does K-NN stand for?,KNN
-How KNN works?,KNN
-k-nearest neighbor supervised or unsupervised,KNN
-knn algorithm ppt,KNN
-Knn supervised or unsupervised?,KNN
-When was Knn introduced..?,KNN
-Difference btw AI and ML?,Machine learning
-How can I get started with ML?,Machine learning
-How can I explain training and testing in ML?,Machine learning
-Free Courses for ML,Machine learning
-Machine Learning introduction.,Machine learning
-Where can I find machine learning interview questions?,Machine learning
-what are the different types of machine learning algorithms,Machine learning
-Unable to under stand ML,Machine learning
-What is ML? Why is it becoming popular now?,Machine learning
-How can I become a Machine Learning Expert?,Machine learning
+linear regression sklearn,linear regression
+linear regression tutorial in depth,linear regression
+when to use linear regression and logistic regression?,linear regression
+How to increase accuracy of linear regression,linear regression
+Can you list out the critical assumptions of linear regression?,linear regression
+Linear regression examples,linear regression
+what are the different types of linear regression,linear regression
+Explain simple linear regression,linear regression
+How to do multi linear regression,linear regression
+Linear regression wiki,linear regression
+I don’t understand KNN,knn
+Can you show me the project which will be done on K Nearest Neighbours Algorithm?,knn
+What is KNN regression?,knn
+Can K-Nearest neighbours do classification task? Can you show me an example.,knn
+What does K-NN stand for?,knn
+How KNN works?,knn
+k-nearest neighbor supervised or unsupervised,knn
+knn algorithm ppt,knn
+Knn supervised or unsupervised?,knn
+When was Knn introduced..?,knn
+Difference btw AI and ML?,machine learning
+How can I get started with ML?,machine learning
+How can I explain training and testing in ML?,machine learning
+Free Courses for ML,machine learning
+Machine Learning introduction.,machine learning
+Where can I find machine learning interview questions?,machine learning
+what are the different types of machine learning algorithms,machine learning
+Unable to under stand ML,machine learning
+What is ML? Why is it becoming popular now?,machine learning
+How can I become a Machine Learning Expert?,machine learning
 Goto sklearn home,sklearn
 What is sklearn used for.,sklearn
 Is sklearn and scikit learn same,sklearn
@@ -39,54 +39,54 @@ how to import scikit learn in my jupyter notebook,sklearn
 sklearn datasets,sklearn
 Where can I find sklearn documentation,sklearn
 How to use the Scikit-learn Python library for data science project,sklearn
-What is convolutional neural networks?,Neural Networks
-why neural network is used,Neural Networks
-What is neural network explain in brief?,Neural Networks
-What is neural network and how it works?,Neural Networks
-What are the advantages of neural network?,Neural Networks
-What are the different types of neural networks,Neural Networks
-application of neural networks in data mining,Neural Networks
-Real life example for neural network,Neural Networks
-I don’t understand neural network,Neural Networks
-Advantages of neural networks over ML algo?,Neural Networks
-How to choose the best features from my dataset,Feature selection
-I don’t understand feature selection,Feature selection
-when to do feature selection in a machine learning project??,Feature selection
-is there a way to automate the feature selection process?,Feature selection
-corelation based feature selection,Feature selection
-How to get the best features from my dataset,Feature selection
-When should I drop a feature?,Feature selection
-feature selection tutotial,Feature selection
-What will happen if I don’t do feature selection?,Feature selection
-best practises while doing feature selection.,Feature selection
-How does a random forest work?,Random forest
-I want to understand random forest in depth,Random forest
-best reference for random forest algo,Random forest
-what is random forest,Random forest
-why random forest is giving more accuracy than decision tree?,Random forest
-random forest hyperparamers which I should be aware of?,Random forest
-should I do scaling before doing random forest algorithm?,Random forest
-simple way to understand random forest,Random forest
-different types of random forest algorithm,Random forest
-Can random forest be used for classification task?,Random forest
-What is decision tree and give example,Decision tree
-What is decision tree technique?,Decision tree
-What are decision trees good for?,Decision tree
-Explain decision tree regressor,Decision tree
-Decision tree sklearn,Decision tree
-How decision tree splits different branches,Decision tree
-what is root node in decision tree algorithm,Decision tree
-Differnce btw entropy and gini in decision tree algo,Decision tree
-How to visualize decision tree,Decision tree
-How to control decision tree from overfitting?,Decision tree
-Can logistic regression be used for prediction?,Logistic regression
-What is logistic regression in simple terms?,Logistic regression
-logistic regression in python,Logistic regression
-Understanding Logistic Regression,Logistic regression
-logistic regression formula and explanation,Logistic regression
-Logistic Regression for Machine Learning,Logistic regression
-I want to understand logistic regression model,Logistic regression
-when is logistic regression used in ML,Logistic regression
+What is convolutional neural networks?,neural networks
+why neural network is used,neural networks
+What is neural network explain in brief?,neural networks
+What is neural network and how it works?,neural networks
+What are the advantages of neural network?,neural networks
+What are the different types of neural networks,neural networks
+application of neural networks in data mining,neural networks
+Real life example for neural network,neural networks
+I don’t understand neural network,neural networks
+Advantages of neural networks over ML algo?,neural networks
+How to choose the best features from my dataset,feature selection
+I don’t understand feature selection,feature selection
+when to do feature selection in a machine learning project??,feature selection
+is there a way to automate the feature selection process?,feature selection
+corelation based feature selection,feature selection
+How to get the best features from my dataset,feature selection
+When should I drop a feature?,feature selection
+feature selection tutotial,feature selection
+What will happen if I don’t do feature selection?,feature selection
+best practises while doing feature selection.,feature selection
+How does a random forest work?,random forest
+I want to understand random forest in depth,random forest
+best reference for random forest algo,random forest
+what is random forest,random forest
+why random forest is giving more accuracy than decision tree?,random forest
+random forest hyperparamers which I should be aware of?,random forest
+should I do scaling before doing random forest algorithm?,random forest
+simple way to understand random forest,random forest
+different types of random forest algorithm,random forest
+Can random forest be used for classification task?,random forest
+What is decision tree and give example,decision tree
+What is decision tree technique?,decision tree
+What are decision trees good for?,decision tree
+Explain decision tree regressor,decision tree
+Decision tree sklearn,decision tree
+How decision tree splits different branches,decision tree
+what is root node in decision tree algorithm,decision tree
+Differnce btw entropy and gini in decision tree algo,decision tree
+How to visualize decision tree,decision tree
+How to control decision tree from overfitting?,decision tree
+Can logistic regression be used for prediction?,logistic regression
+What is logistic regression in simple terms?,logistic regression
+logistic regression in python,logistic regression
+Understanding Logistic Regression,logistic regression
+logistic regression formula and explanation,logistic regression
+Logistic Regression for Machine Learning,logistic regression
+I want to understand logistic regression model,logistic regression
+when is logistic regression used in ML,logistic regression
 descriptive statistics in excel,descriptive statistics
 why do we do descriptive statistics,descriptive statistics
 What is descriptive statistics used for?,descriptive statistics
@@ -95,14 +95,14 @@ why is descriptive statistics required,descriptive statistics
 descriptive statistics in machine learning,descriptive statistics
 How to do descriptive statistics in google sheets?,descriptive statistics
 How do you do descriptive statistics in Excel on a Mac?,descriptive statistics
-EdA in machine learning,EDA
-eda with example?,EDA
-I don’t understand Exploratory Data Analysis,EDA
-I want to know how to do eda.,EDA
-can you explain eda,EDA
-how to do Exploratory Data Analysis,EDA
-what is the necessity is eda,EDA
-why is eda required,EDA
+EdA in machine learning,eda
+eda with example?,eda
+I don’t understand Exploratory Data Analysis,eda
+I want to know how to do eda.,eda
+can you explain eda,eda
+how to do Exploratory Data Analysis,eda
+what is the necessity is eda,eda
+why is eda required,eda
 How do you practice visualization techniques?,visualization techniques
 visualization techniques in AIML,visualization techniques
 data visualization for categorical values,visualization techniques
@@ -119,31 +119,31 @@ What is an Anova test used for?,anova
 anova test example in real life,anova
 Can Anova be used for 2 samples?,anova
 For what kinds of problems is Anova used?,anova
-K-means clustering steps,K-means Clustering
-cross validation k-means clustering python,K-means Clustering
-What is K in K means clustering,K-means Clustering
-Is K means clustering machine learning,K-means Clustering
-What is required for K means clustering,K-means Clustering
-When should you use PCA,PCA
-What is PCA ML,PCA
-Does PCA reduce Overfitting,PCA
-Is PCA linear or nonlinear,PCA
-How do I use PCA in Python,PCA
-Why does XGBoost work so well,Boosting
-What is boosting decision tree,Boosting
-What is AdaBoost learning rate,Boosting
-Can the boosting technique be applied to regression problems,Boosting
-Which ensemble technique converts a set of weak learners to a strong learner,Boosting
-Bagging classifier in ML,Bagging
-How does a bagging classifier work,Bagging
-What is the main objective of bagging,Bagging
-What is bagging technique in ML,Bagging
-Can bagging be applied to regression problems,Bagging
-Is P value inferential statistics,Inferential statistics
-Do qualitative researchers use inferential statistics,Inferential statistics
-Is an average a descriptive or inferential statistic,Inferential statistics
-How is probability used in inferential statistics,Inferential statistics
-Are Confidence Intervals inferential statistics,Inferential statistics
+K-means clustering steps,k-means clustering
+cross validation k-means clustering python,k-means clustering
+What is K in K means clustering,k-means clustering
+Is K means clustering machine learning,k-means clustering
+What is required for K means clustering,k-means clustering
+When should you use PCA,pca
+What is PCA ML,pca
+Does PCA reduce Overfitting,pca
+Is PCA linear or nonlinear,pca
+How do I use PCA in Python,pca
+Why does XGBoost work so well,boosting
+What is boosting decision tree,boosting
+What is AdaBoost learning rate,boosting
+Can the boosting technique be applied to regression problems,boosting
+Which ensemble technique converts a set of weak learners to a strong learner,boosting
+Bagging classifier in ML,bagging
+How does a bagging classifier work,bagging
+What is the main objective of bagging,bagging
+What is bagging technique in ML,bagging
+Can bagging be applied to regression problems,bagging
+Is P value inferential statistics,inferential statistics
+Do qualitative researchers use inferential statistics,inferential statistics
+Is an average a descriptive or inferential statistic,inferential statistics
+How is probability used in inferential statistics,inferential statistics
+Are Confidence Intervals inferential statistics,inferential statistics
 Which algorithm is used for classification?,classification model
 How do you solve multi class classification?,classification model
 What is the best model for image classification?,classification model
@@ -163,17 +163,17 @@ How is deep learning improving day to day life,deep learning
 What is deep learning? How does it work?,deep learning
 How can i become a deep learning expert.,deep learning
 deep learning algorithms for image processing,deep learning
-When should i use Supervised learning.,Supervised Learning
-Where is supervised learning used?,Supervised Learning
-What are the supervised learning techniques?,Supervised Learning
-Which are the best supervised learning algorithms.,Supervised Learning
-What are the two most common supervised tasks?,Supervised Learning
-Why classification is called supervised learning?,Supervised Learning
-What is the goal of supervised learning?,Supervised Learning
-supervised learning examples,Supervised Learning
-semi supervised learning techniques,Supervised Learning
-What is unsupervised learning example?,Unsupervised Learning
-How does unsupervised learning work?,Unsupervised Learning
-unsupervised learning definition,Unsupervised Learning
-advantages of unsupervised learning,Unsupervised Learning
-practical examples of unsupervised learning,Unsupervised Learning
+When should i use Supervised learning.,supervised learning
+Where is supervised learning used?,supervised learning
+What are the supervised learning techniques?,supervised learning
+Which are the best supervised learning algorithms.,supervised learning
+What are the two most common supervised tasks?,supervised learning
+Why classification is called supervised learning?,supervised learning
+What is the goal of supervised learning?,supervised learning
+supervised learning examples,supervised learning
+semi supervised learning techniques,supervised learning
+What is unsupervised learning example?,unsupervised learning
+How does unsupervised learning work?,unsupervised learning
+unsupervised learning definition,unsupervised learning
+advantages of unsupervised learning,unsupervised learning
+practical examples of unsupervised learning,unsupervised learning
