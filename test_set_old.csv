@@ -23,12 +23,12 @@ Difference btw AI and ML?,Machine learning
 How can I get started with ML?,Machine learning
 How can I explain training and testing in ML?,Machine learning
 Free Courses for ML,Machine learning
-Machine Learning introduction.,Machine learning
-Where can I find machine learning interview questions?,Machine learning
-what are the different types of machine learning algorithms,Machine learning
+Machine learning introduction.,Machine learning
+Where can I find Machine learning interview questions?,Machine learning
+what are the different types of Machine learning algorithms,Machine learning
 Unable to under stand ML,Machine learning
 What is ML? Why is it becoming popular now?,Machine learning
-How can I become a Machine Learning Expert?,Machine learning
+How can I become a Machine learning Expert?,Machine learning
 Goto sklearn home,sklearn
 What is sklearn used for.,sklearn
 Is sklearn and scikit learn same,sklearn
@@ -51,7 +51,7 @@ I don’t understand neural network,Neural Networks
 Advantages of neural networks over ML algo?,Neural Networks
 How to choose the best features from my dataset,Feature selection
 I don’t understand feature selection,Feature selection
-when to do feature selection in a machine learning project??,Feature selection
+when to do feature selection in a Machine learning project??,Feature selection
 is there a way to automate the feature selection process?,Feature selection
 corelation based feature selection,Feature selection
 How to get the best features from my dataset,Feature selection
@@ -84,7 +84,7 @@ What is logistic regression in simple terms?,Logistic regression
 logistic regression in python,Logistic regression
 Understanding Logistic Regression,Logistic regression
 logistic regression formula and explanation,Logistic regression
-Logistic Regression for Machine Learning,Logistic regression
+Logistic Regression for Machine learning,Logistic regression
 I want to understand logistic regression model,Logistic regression
 when is logistic regression used in ML,Logistic regression
 descriptive statistics in excel,descriptive statistics
@@ -92,10 +92,10 @@ why do we do descriptive statistics,descriptive statistics
 What is descriptive statistics used for?,descriptive statistics
 I want to understand descriptive statistics,descriptive statistics
 why is descriptive statistics required,descriptive statistics
-descriptive statistics in machine learning,descriptive statistics
+descriptive statistics in Machine learning,descriptive statistics
 How to do descriptive statistics in google sheets?,descriptive statistics
 How do you do descriptive statistics in Excel on a Mac?,descriptive statistics
-EdA in machine learning,EDA
+EdA in Machine learning,EDA
 eda with example?,EDA
 I don’t understand Exploratory Data Analysis,EDA
 I want to know how to do eda.,EDA
@@ -107,7 +107,7 @@ How do you practice visualization techniques?,visualization techniques
 visualization techniques in AIML,visualization techniques
 data visualization for categorical values,visualization techniques
 how to get more familiarized with data using visualization,visualization techniques
-Data Visualization using Python for Machine Learning,visualization techniques
+Data Visualization using Python for Machine learning,visualization techniques
 show me different type of graphs which can be used for data visualization in python,visualization techniques
 Best Data Visualization Techniques for small and large data,visualization techniques
 Why Data Visualization is Essential in Every Step,visualization techniques
@@ -122,7 +122,7 @@ For what kinds of problems is Anova used?,anova
 K-means clustering steps,K-means Clustering
 cross validation k-means clustering python,K-means Clustering
 What is K in K means clustering,K-means Clustering
-Is K means clustering machine learning,K-means Clustering
+Is K means clustering Machine learning,K-means Clustering
 What is required for K means clustering,K-means Clustering
 When should you use PCA,PCA
 What is PCA ML,PCA
@@ -144,36 +144,3 @@ Do qualitative researchers use inferential statistics,Inferential statistics
 Is an average a descriptive or inferential statistic,Inferential statistics
 How is probability used in inferential statistics,Inferential statistics
 Are Confidence Intervals inferential statistics,Inferential statistics
-Which algorithm is used for classification?,classification model
-How do you solve multi class classification?,classification model
-What is the best model for image classification?,classification model
-classification machine learning tutorial,classification model
-How to understand if the given problem is a classification problem.,classification model
-best machine learning algorithms for classification,classification model
-Text classification algorithm with example,classification model
-How can I improve my text classification algorithm accuracy?,classification model
-What is computer vision used for?,computer vision
-How does computer vision work.,computer vision
-examples of computer vision,computer vision
-what are the different types of computer vision applications.,computer vision
-computer vision tutorials,computer vision
-How does deep learning AI work?,deep learning
-Different type of deep learning application in real world,deep learning
-How is deep learning improving day to day life,deep learning
-What is deep learning? How does it work?,deep learning
-How can i become a deep learning expert.,deep learning
-deep learning algorithms for image processing,deep learning
-When should i use Supervised learning.,Supervised Learning
-Where is supervised learning used?,Supervised Learning
-What are the supervised learning techniques?,Supervised Learning
-Which are the best supervised learning algorithms.,Supervised Learning
-What are the two most common supervised tasks?,Supervised Learning
-Why classification is called supervised learning?,Supervised Learning
-What is the goal of supervised learning?,Supervised Learning
-supervised learning examples,Supervised Learning
-semi supervised learning techniques,Supervised Learning
-What is unsupervised learning example?,Unsupervised Learning
-How does unsupervised learning work?,Unsupervised Learning
-unsupervised learning definition,Unsupervised Learning
-advantages of unsupervised learning,Unsupervised Learning
-practical examples of unsupervised learning,Unsupervised Learning
