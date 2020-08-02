@@ -46,3 +46,14 @@ machine learning
 what is anova
 what is artificial intelligence
 how
+what is random forest
+fine
+could you please explain about machine learning
+how to perform regression
+neural netorks
+dec tree
+k means clustering
+infrential
+descriptive
+deep learning
+computer vision
