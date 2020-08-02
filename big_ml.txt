@@ -13,6 +13,10 @@ Machine learning
 Machine learning
 Machine learning
 Random Forest
+XGBoost
+XGBoost
+XGBoost
+XGBoost
 and
 data mining
 Problems[show]
@@ -44,15 +48,6 @@ vte
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.[1][2] It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.[3] Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
 
 Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[5][6] In its application across business problems, machine learning is also referred to as predictive analytics.
-
-tell you tell tell tell tell tell tell tell tell tell tell
-
-tell you tell tell tell tell tell tell tell tell tell tell
-
-tell you tell tell tell tell tell tell tell tell tell tell
-
-
-tell you tell tell tell tell tell tell tell tell tell tell
 
 Contents
 Overview
@@ -12385,5 +12380,70 @@ computer vision
 
 ML
 AI
+
+tell you tell tell tell tell tell tell tell tell tell tell
+tell you tell tell tell tell tell tell tell tell tell tell
+tell you tell tell tell tell tell tell tell tell tell tell
+tell you tell tell tell tell tell tell tell tell tell tell
+
+anova
+bagging
+boosting
+classification model
+computer vision
+decision tree
+deep learning
+descriptive statistics
+eda
+feature selection
+inferential statistics
+k-means clustering
+knn
+linear regression
+logistic regression
+machine learning
+neural networks
+pca
+random forest
+sklearn
+supervised learning
+unsupervised learning
+visualization techniques
+
+What is linear regression
+Can you explain linear regression
+Please provide linear regression example
+How to apply linear regression
+What do you mean by linear regression
+Unable to understand linear regression
+knn formula
+What is knn
+Can you explain knn
+Please provide knn example
+How to apply knn
+What do you mean by knn
+what are some libraries used in machine learning
+Which library should i use to build models
+what are neural networks
+how to use neural networks
+please explain neural networks
+using neural networks
+what are different kind of neural networks
+
+do not understand random forest algorithm
+please explain ensemble random forest
+want to know about random forest
+What are decision trees
+Explain decision trees
+Can you explain decision trees
+Please provide example of decision trees
+How a decision tree works
+
+logistic regression
+linear regression for dummies
+linear regression equation
+regression analysis
+sklearn linear regression
+
 
 
