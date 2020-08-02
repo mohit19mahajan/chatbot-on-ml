@@ -1,0 +1,56 @@
+Hello. I am your machine learning assistant
+I can help you with your learning journey.
+You can ask me questions around algorithms and learn new stuff!!
+
+
+User: Hello
+
+Hello! how can I help you ?
+
+User: linear Regression formula
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Linear_regression
+
+User: unable to understand knn
+
+Bot: Please check this link https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+
+User: which library is used for machine learning models
+
+Bot: Please check this link  https://en.wikipedia.org/wiki/Scikit-learn
+
+User: did not get neural networks
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Neural_network
+
+User: unable to understand neural networks
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Neural_network
+
+User: what is feature selection
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Feature_selection
+
+User: more info on random forest
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Random_forest
+
+User: unable to understand decision tree
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Decision_tree
+
+User: Name a few classification models
+
+Bot: Please check this link https://en.wikipedia.org/wiki/Category:Classification_algorithms
+
+User: ok
+
+I am glad to assist you. You can ask me other questions.
+
+User: thanks
+
+Do you want to quit? (yes/no)
+
+User: yes
+
+Thanks. See you again
